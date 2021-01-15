@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>2019 &#8211; Chaibasa</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Chaibasa &raquo; Feed" href="http://localhost/Chaibasa.org/feed" />
+<link rel="alternate" type="application/rss+xml" title="Chaibasa &raquo; Comments Feed" href="http://localhost/Chaibasa.org/comments/feed" />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost/Chaibasa.org/wp-includes/css/dist/block-library/style.min.css?ver=5.6' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://localhost/Chaibasa.org/wp-includes/css/dist/block-library/theme.min.css?ver=5.6' media='all' />
+<link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext&#038;display=fallback' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://localhost/Chaibasa.org/wp-content/themes/twentysixteen/genericons/genericons.css?ver=20201208' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css'  href='http://localhost/Chaibasa.org/wp-content/themes/twentysixteen/style.css?ver=20201208' media='all' />
+<link rel='stylesheet' id='twentysixteen-block-style-css'  href='http://localhost/Chaibasa.org/wp-content/themes/twentysixteen/css/blocks.css?ver=20190102' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='http://localhost/Chaibasa.org/wp-content/themes/twentysixteen/css/ie.css?ver=20170530' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='http://localhost/Chaibasa.org/wp-content/themes/twentysixteen/css/ie8.css?ver=20170530' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='http://localhost/Chaibasa.org/wp-content/themes/twentysixteen/css/ie7.css?ver=20170530' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<script src='http://localhost/Chaibasa.org/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3' id='twentysixteen-html5-js'></script>
+<![endif]-->
+<script src='http://localhost/Chaibasa.org/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script src='http://localhost/Chaibasa.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="http://localhost/Chaibasa.org/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/Chaibasa.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 5.6" />
+<link rel="icon" href="http://localhost/Chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://localhost/Chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://localhost/Chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://localhost/Chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-270x270.jpg" />
+</head>
+
+<body class="archive date wp-embed-responsive hfeed">
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-header-main">
+				<div class="site-branding">
+					
+											<p class="site-title"><a href="http://localhost/Chaibasa.org/" rel="home">Chaibasa</a></p>
+												<p class="site-description">Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</p>
+									</div><!-- .site-branding -->
+
+									<button id="menu-toggle" class="menu-toggle">Menu</button>
+
+					<div id="site-header-menu" class="site-header-menu">
+													<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+								<div class="menu-primary-container"><ul id="menu-primary" class="primary-menu"><li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-172"><a href="http://localhost/Chaibasa.org/">Home</a></li>
+<li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-131"><a href="http://localhost/Chaibasa.org/education">Education</a>
+<ul class="sub-menu">
+	<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="http://localhost/Chaibasa.org/schools">Schools</a></li>
+	<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="http://localhost/Chaibasa.org/college">College</a></li>
+</ul>
+</li>
+<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-168"><a href="http://localhost/Chaibasa.org/markets">Markets</a>
+<ul class="sub-menu">
+	<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://localhost/Chaibasa.org/restaurants">Restaurants  and Hotels</a></li>
+</ul>
+</li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="http://localhost/Chaibasa.org/non-profit-organisations">Non-Profit Organisations</a></li>
+<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="http://localhost/Chaibasa.org/gardens-and-parks">Recreational</a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="http://localhost/Chaibasa.org/photo-gallery">Photo Gallery</a></li>
+<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-123"><a href="http://localhost/Chaibasa.org/blog">Blog</a></li>
+<li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-124"><a href="http://localhost/Chaibasa.org/contact">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="http://localhost/Chaibasa.org/important-offices-in-chaibasa">Important Offices in Chaibasa</a></li>
+</ul>
+</li>
+</ul></div>							</nav><!-- .main-navigation -->
+						
+											</div><!-- .site-header-menu -->
+							</div><!-- .site-header-main -->
+
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			<header class="page-header">
+				<h1 class="page-title">Year: <span>2019</span></h1>			</header><!-- .page-header -->
+
+			
+<article id="post-459" class="post-459 post type-post status-publish format-standard hentry category-city-services tag-medical-college">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://localhost/Chaibasa.org/2019/12/workers-stopped-construction-of-chaibasa-medical-college" rel="bookmark">Workers stopped construction of Chaibasa Medical College</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://www.chaibasa.org/wp-content/uploads/2019/12/28_07_2019-hospital.jpg" alt="" class="wp-image-460" width="381" height="295" srcset="http://localhost/Chaibasa.org/wp-content/uploads/2019/12/28_07_2019-hospital.jpg 380w, http://localhost/Chaibasa.org/wp-content/uploads/2019/12/28_07_2019-hospital-300x232.jpg 300w" sizes="(max-width: 381px) 85vw, 381px" /><figcaption>Chaibasa Medical College construction stopped.</figcaption></figure>
+
+
+
+<p>The Construction of Chaibasa Medical College was going in Ulijhari, Chaibasa at a cost of 300 crores. However, the workers stopped on Wednesday, demanding to increase the wage rate. All the working laborers gathered and started raising slogans demanding fair compensation.</p>
+
+
+
+<p>As soon as the workers arrived in the morning to work, they started demanding the management to increase the wage rate. More than 100 workers engaged in its construction work stopped the work, raising slogans for their demand. </p>
+
+
+
+<p>The laborer Bhimsen Devgam added in this regard that a medical college is being built, for this consent was taken from all the villagers. We are not opposing the construction of all medical colleges, we are also working in that place. But the wage rate fixed by the government should be given. At present, Rs 250 is being given to laborers and Rs 350 to mistry. While the government has fixed the wage rate at Rs 390 for laborers and Rs 630 for mistry. On this basis, the management of the medical college is not giving wages. Many times, the workers have asked the contractor to increase the wage rate but said that the rate is being given on the same basis. He added that no safety is given while working. If any incident happens to the workers somehow then who will take responsibility for it. Therefore, management helmets, shoes, and gloves should be provided to the laborers. So that construction work can be done safely. </p>
+
+
+
+<p>Prime Minister Narendra Modi laid the foundation stone of the Medical College on 23 September 2018 in 25 acres of land after a lot of controversy in Ulijhari. Once the medical college is constructed, the health condition of the people of the area will improve completely. But there is controversy from time to time in the construction of a medical college. The construction of the college is to be completed in three years, in which the college and women hostels will also be constructed.</p>
+
+
+
+<p>Also see &#8211; <a href="https://www.chaibasa.org/2019/09/renovation-of-bus-stand-in-chaibasa">Renovation of Bus Stand</a></p>
+
+
+
+<p>Follow us on <a href="https://www.facebook.com/Chaibasa.org">Facebook </a>and <a href="https://www.instagram.com/Chaibasa_org">Instagram</a> </p>
+
+
+
+<p>Source &#8211; <a href="https://www.jagran.com/jharkhand/west-singhbhum-chaibasa-medical-college-19856778.html">Jagran</a></p>
+
+
+
+<p>Image Courtesy &#8211; <a href="https://www.inextlive.com/chaibasa-medical-college-construction-starts-218676">Inext</a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=49&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://localhost/Chaibasa.org/author/admin">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/Chaibasa.org/2019/12/workers-stopped-construction-of-chaibasa-medical-college" rel="bookmark"><time class="entry-date published" datetime="2019-12-18T18:00:16+00:00">18th December 2019</time><time class="updated" datetime="2019-12-18T18:00:18+00:00">18th December 2019</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://localhost/Chaibasa.org/category/city-services" rel="category tag">City Services</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://localhost/Chaibasa.org/tag/medical-college" rel="tag">Medical College</a></span><span class="comments-link"><a href="http://localhost/Chaibasa.org/2019/12/workers-stopped-construction-of-chaibasa-medical-college#comments">1 Comment<span class="screen-reader-text"> on Workers stopped construction of Chaibasa Medical College</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-459 -->
+
+<article id="post-453" class="post-453 post type-post status-publish format-standard hentry category-city-services tag-bus-stand">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://localhost/Chaibasa.org/2019/09/renovation-of-bus-stand-in-chaibasa" rel="bookmark">Renovation of Bus Stand in Chaibasa</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="https://www.chaibasa.org/wp-content/uploads/2019/09/Bus-Stand-Chowk-Chaibasa-1024x576.jpg" alt="" class="wp-image-454" srcset="http://localhost/Chaibasa.org/wp-content/uploads/2019/09/Bus-Stand-Chowk-Chaibasa.jpg 1024w, http://localhost/Chaibasa.org/wp-content/uploads/2019/09/Bus-Stand-Chowk-Chaibasa-300x169.jpg 300w, http://localhost/Chaibasa.org/wp-content/uploads/2019/09/Bus-Stand-Chowk-Chaibasa-768x432.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption>Bus Stand Chowk, Chaibasa</figcaption></figure>
+
+
+
+<p style="text-align:left">Chaibasa bus stand is going to be renovated and a new bus stand is going to be constructed very soon. In this regard, the exercise has been started by the city council of Chaibasa.</p>
+
+
+
+<p> This time the bus stand will be prepared as a model of Ranchi-Khadagara bus stand. On Monday 16th Sept, City Council Executive Officer Abhay Kumar Jha, Vice President of Bus Honor Association, Mohammad Bariq, and the engineer of Para Mom Consultancy Limited inspected the government bus stand and private bus stand. </p>
+
+
+
+<p>On the spot, the executive officer told that this time both the private and government bus stands will be merged and one bus stand will be constructed that will be full of all facilities. The new bus stand will have facilities for passenger seating, two large halls, separate toilets for men and women, pure drinking water, route number for each carriage.</p>
+
+
+
+<p>With these facilities, the passengers will know immediately from which number stand, they have to board the bus. Currently, the passengers have some difficulty in catching the bus to go to Ranchi and Tata.</p>
+
+
+
+<p> Also, all arrangements of today&#8217;s era will be equipped, including malls, shops, guest houses for travelers, clean and beautiful restaurants. There are approximately one and a half acres of land combining both bus stands.</p>
+
+
+
+<p> Chaibasa bus stand departs from Bihar, Bengal, Odisha and other places on a daily basis. The executive officer said that its DPR will be prepared and sent to the city development department Ranchi soon. After acceptance from there, the foundation stone will be done immediately, so that a new bus stand will be ready in 2020.</p>
+
+
+
+<p> Earlier, Planning was going on that the Chaibasa bus stand will be constructed out of the city, but the Vice President of the Bus Honor Association, Mo. Bariq put a lot of effort so that the old bus stand will be renovated.</p>
+
+
+
+<p>Also see:- <a href="https://www.chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation">Jal Shakti Abhiyan</a></p>
+
+
+
+<p>Source:- <a href="https://www.jagran.com/jharkhand/west-singhbhum-bus-stand-news-19583394.html">Jagran</a></p>
+
+
+
+<p>Follow us on <a href="https://www.facebook.com/Chaibasa.org">Facebook </a>and <a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=49&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://localhost/Chaibasa.org/author/admin">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/Chaibasa.org/2019/09/renovation-of-bus-stand-in-chaibasa" rel="bookmark"><time class="entry-date published" datetime="2019-09-16T18:53:42+01:00">16th September 2019</time><time class="updated" datetime="2019-09-16T18:53:45+01:00">16th September 2019</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://localhost/Chaibasa.org/category/city-services" rel="category tag">City Services</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://localhost/Chaibasa.org/tag/bus-stand" rel="tag">Bus stand</a></span><span class="comments-link"><a href="http://localhost/Chaibasa.org/2019/09/renovation-of-bus-stand-in-chaibasa#comments">2 Comments<span class="screen-reader-text"> on Renovation of Bus Stand in Chaibasa</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-453 -->
+
+<article id="post-448" class="post-448 post type-post status-publish format-standard hentry category-college tag-fit-india-movement tag-national-sports-day">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://localhost/Chaibasa.org/2019/08/prabhat-pheri-on-the-occasion-of-national-sports-day" rel="bookmark">Prabhat Pheri on the Occasion of National Sports Day</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<figure class="wp-block-image"><img loading="lazy" width="650" height="385" src="https://www.chaibasa.org/wp-content/uploads/2019/08/Fit-India-Movement.jpg" alt="" class="wp-image-449" srcset="http://localhost/Chaibasa.org/wp-content/uploads/2019/08/Fit-India-Movement.jpg 650w, http://localhost/Chaibasa.org/wp-content/uploads/2019/08/Fit-India-Movement-300x178.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Prabhat Pheri organized by students of Mahila College Chaibasa on the occasion of National Sports Day.</figcaption></figure>
+
+
+
+<p style="text-align:left">Students of Women&#8217;s&#8217; College and Tata College organized Prabhat Pheri in Chaibasa on the occasion of National Sports Day. Prabhat Pheri of Women&#8217;s College was headed by Dr. Nivaran Mahatha, Head of the Department of Sanskrit. </p>
+
+
+
+<p>Students of Women&#8217;s College shouted various slogans from Women&#8217;s college to Kachhri Chowk in a long queue regarding Khelo India, Healthy Stay India, Fit India,  will not keep Android phones and will pay attention in studies .. etc.</p>
+
+
+
+<p>Later, under the inspiration of Dr. Asha Mishra, the principal of the college, all the students of the college took an oath to stay healthy and be fit by participating in the Prime Minister&#8217;s Fit India program at 10 am. The program was mainly attended by Arpit Suman Toppo, Suman Kumari, Smita Thakur, Alka Pradhan, Shatabdi Dutta, Priyanka Mitra, Divya Sharma, etc. and other teachers and students. </p>
+
+
+
+<p>On the other hand, Prabhat Pheri and the oath ceremony at Tata College was led by Principal Prof. Kasturi  Boyapai. While addressing the students at Tata College, the principal said that we will not be healthy until we are fit. Therefore, if you are fit first then you will be healthy yourself. On the occasion, children took a pledge to remain healthy.</p>
+
+
+
+<p>Follow us on <a href="https://www.facebook.com/Chaibasa.org">Facebook </a>and <a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
+
+
+
+<p>Also see:- <a href="https://www.chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation">Jal Shakti Abhiyan and Plantation</a></p>
+
+
+
+<p>Source:- <a href="https://www.jagran.com/jharkhand/west-singhbhum-fit-india-awerness-19529999.html">Jagran</a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=49&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://localhost/Chaibasa.org/author/admin">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/Chaibasa.org/2019/08/prabhat-pheri-on-the-occasion-of-national-sports-day" rel="bookmark"><time class="entry-date published" datetime="2019-08-29T18:53:31+01:00">29th August 2019</time><time class="updated" datetime="2019-08-29T18:53:37+01:00">29th August 2019</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://localhost/Chaibasa.org/category/college" rel="category tag">College</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://localhost/Chaibasa.org/tag/fit-india-movement" rel="tag">Fit India Movement</a>, <a href="http://localhost/Chaibasa.org/tag/national-sports-day" rel="tag">National Sports Day</a></span><span class="comments-link"><a href="http://localhost/Chaibasa.org/2019/08/prabhat-pheri-on-the-occasion-of-national-sports-day#respond">Leave a comment<span class="screen-reader-text"> on Prabhat Pheri on the Occasion of National Sports Day</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-448 -->
+
+<article id="post-436" class="post-436 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorised tag-painting-competition tag-science-competition">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://localhost/Chaibasa.org/2019/07/painting-general-knowledge-and-science-competition" rel="bookmark">Painting, General Knowledge and Science Competition</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<a class="post-thumbnail" href="http://localhost/Chaibasa.org/2019/07/painting-general-knowledge-and-science-competition" aria-hidden="true">
+		<img width="960" height="480" src="http://localhost/Chaibasa.org/wp-content/uploads/2019/07/6th-Painting-GK-and-Science-Competition.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Painting, General Knowledge and Science Competition" loading="lazy" srcset="http://localhost/Chaibasa.org/wp-content/uploads/2019/07/6th-Painting-GK-and-Science-Competition.jpg 960w, http://localhost/Chaibasa.org/wp-content/uploads/2019/07/6th-Painting-GK-and-Science-Competition-300x150.jpg 300w, http://localhost/Chaibasa.org/wp-content/uploads/2019/07/6th-Painting-GK-and-Science-Competition-768x384.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px" />	</a>
+
+		
+	<div class="entry-content">
+		
+<p>6th Inter-School Painting, General Knowledge and Science Competition is  <br>being organized by the Gaints Group of Chaibasa and sponsored by &#8216;Satyam Builders&#8217;, under the &#8216;Knowledge-Campaign 2019&#8217; program,  on August 4 (Sunday) at local Padmavati Jain Saraswati Shishu Vidya Mandir in Chaibasa </p>
+
+
+
+<p>Like every year, this painting contest is for students from class LKG to class 10th, general knowledge competition is for students from class 5th to 10th and science competition is for students from class 7th to 10th.</p>
+
+
+
+<p>Details for painting competition &#8211; </p>
+
+
+
+<p>Class &#8211; Timings &#8211;  Topic</p>
+
+
+
+<ul><li>Class LKG and UKG &#8211; 9 am to 10 am &#8211; Fill colors in the given picture.</li><li>Class 1 and 2 &#8211; 9 am to 10 pm &#8211; Make a picture of a fish and fill the color.</li><li>Class 3 and 4  &#8211; 11.30 am to 12.30 am &#8211; Make a picture of the boat in the water and fill the color.</li><li>Class 5 and 6 &#8211; 11.30 am to 12.30 pm &#8211; Make a picture of a flower with leaves.</li><li>Class 7 and 8 &#8211; 1.30 pm to 2.30 pm &#8211; Make a picture of Shaheed Bhagat Singh.</li><li>Class 9 and 10 &#8211; 1.30 pm to 2.30 pm &#8211; Describe your school premises.</li></ul>
+
+
+
+<p>Detailed information regarding the program has been made available to all schools. In order to facilitate the students, apart from schools. Registration for drawing and general knowledge competition can be done at various places in Chaibasa. The registration fee is only 30 rupees.</p>
+
+
+
+<p>The science competition will be held in two groups for class 7th-8th and 9th-10th. Up to two entries per group will be accepted from each school in the competition. Only the selected students/students selected by the school will be able to participate in the competition and the registration fee for this contest is only Rs.100 / &#8211; per group. This competition will be held from 2 pm to 5 pm in Madhav Auditorium.</p>
+
+
+
+<p> The result of the competition and the prize distribution ceremony will be held on August 25 at 4.30 pm in Mangilal Rungta Plus 2 School Chaibasa.</p>
+
+
+
+<p>Also, see &#8211; <a href="https://www.chaibasa.org/2019/07/district-athletic-championship">District Athletic Championship</a></p>
+
+
+
+<p> Follow us on <a href="https://www.facebook.com/Chaibasa.org">Facebook </a>and <a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
+
+
+
+<p>Source &#8211; <a href="https://www.jagran.com/jharkhand/west-singhbhum-education-19449389.html">Jagran</a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=49&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://localhost/Chaibasa.org/author/admin">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/Chaibasa.org/2019/07/painting-general-knowledge-and-science-competition" rel="bookmark"><time class="entry-date published" datetime="2019-07-31T14:45:23+01:00">31st July 2019</time><time class="updated" datetime="2019-07-31T14:45:26+01:00">31st July 2019</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://localhost/Chaibasa.org/category/uncategorised" rel="category tag">Uncategorised</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://localhost/Chaibasa.org/tag/painting-competition" rel="tag">Painting Competition</a>, <a href="http://localhost/Chaibasa.org/tag/science-competition" rel="tag">Science Competition</a></span><span class="comments-link"><a href="http://localhost/Chaibasa.org/2019/07/painting-general-knowledge-and-science-competition#respond">Leave a comment<span class="screen-reader-text"> on Painting, General Knowledge and Science Competition</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-436 -->
+
+<article id="post-429" class="post-429 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorised tag-athletics tag-sports">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://localhost/Chaibasa.org/2019/07/district-athletic-championship" rel="bookmark">District Athletic Championship</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<a class="post-thumbnail" href="http://localhost/Chaibasa.org/2019/07/district-athletic-championship" aria-hidden="true">
+		<img width="1078" height="799" src="http://localhost/Chaibasa.org/wp-content/uploads/2019/07/Zila-School.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="District Athletic Championship" loading="lazy" srcset="http://localhost/Chaibasa.org/wp-content/uploads/2019/07/Zila-School.jpg 1078w, http://localhost/Chaibasa.org/wp-content/uploads/2019/07/Zila-School-300x222.jpg 300w, http://localhost/Chaibasa.org/wp-content/uploads/2019/07/Zila-School-768x569.jpg 768w, http://localhost/Chaibasa.org/wp-content/uploads/2019/07/Zila-School-1024x759.jpg 1024w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px" />	</a>
+
+		
+	<div class="entry-content">
+		
+<p>On the 27th and 28th of July, the West Singhbhum District Athletics Championship will be held in Zila School Ground. General secretary of West Singhbhum District Athletics Association Ajay Kumar Nayak told that participants from different age groups can participate in this competition. </p>
+
+
+
+<p>Participants can participate in various categories of under-12 boys and girls, under 14 boys and girls, under 16 boys and girls, under 18 boys and girls, under 20 boys and girls and men and women&#8217;s events. In this competition, there will be events of 100m, 200m, 400m, 800m, 1500m race, long jumping, disk throws, etc. Interested Participants can contact the Association&#8217;s office for name registration in the event.</p>
+
+
+
+<p>Also see:- <a href="https://www.chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation">Jal Shakti Abhiyan</a></p>
+
+
+
+<p>Follow us on <a href="https://www.facebook.com/Chaibasa.org">Facebook&nbsp;</a>and&nbsp;<a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
+
+
+
+<p>Source:- <a href="https://www.bhaskar.com/jharkhand/chaibasa/news/district-athletic-championships-in-chaibasa-from-july-27-084506-5063758.html">Bhaskar</a></p>
+
+
+
+<p></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=49&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://localhost/Chaibasa.org/author/admin">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/Chaibasa.org/2019/07/district-athletic-championship" rel="bookmark"><time class="entry-date published" datetime="2019-07-23T19:07:13+01:00">23rd July 2019</time><time class="updated" datetime="2019-07-23T19:19:33+01:00">23rd July 2019</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://localhost/Chaibasa.org/category/uncategorised" rel="category tag">Uncategorised</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://localhost/Chaibasa.org/tag/athletics" rel="tag">athletics</a>, <a href="http://localhost/Chaibasa.org/tag/sports" rel="tag">sports</a></span><span class="comments-link"><a href="http://localhost/Chaibasa.org/2019/07/district-athletic-championship#comments">4 Comments<span class="screen-reader-text"> on District Athletic Championship</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-429 -->
+
+<article id="post-416" class="post-416 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorised tag-chaibasa tag-jal-shakti-abhiyan tag-plantation">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://localhost/Chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation" rel="bookmark">Jal Shakti Abhiyan and Plantation</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<a class="post-thumbnail" href="http://localhost/Chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation" aria-hidden="true">
+		<img width="970" height="545" src="http://localhost/Chaibasa.org/wp-content/uploads/2019/07/405808-plantation-tree.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Jal Shakti Abhiyan and Plantation" loading="lazy" srcset="http://localhost/Chaibasa.org/wp-content/uploads/2019/07/405808-plantation-tree.jpg 970w, http://localhost/Chaibasa.org/wp-content/uploads/2019/07/405808-plantation-tree-300x169.jpg 300w, http://localhost/Chaibasa.org/wp-content/uploads/2019/07/405808-plantation-tree-768x432.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px" />	</a>
+
+		
+	<div class="entry-content">
+		
+<p>Water, forest and land have always been the first priority for the people of Jharkhand. Kolhan Division is particularly known for its water, forest, and land. Now, when the government launched a <strong>Jal Shakti Abhiyan</strong> and started a big scale plantation program. So the people of Kolhan are not only welcoming the initiative of the central government but have joined in to save water and forests.</p>
+
+
+
+<p>The MPs of the Opposition party are also openly praising the central government&#8217;s <strong>Jal Shakti Abhiyan</strong> and campaign to plant trees on large scale. The river festival organized by the Chaibasa Forest Division on the banks of the Kuju river of Chaibasa and the plantation program was inaugurated by Congress MP Geeta Koda and JMM MLA Deepak Birua by planting trees.</p>
+
+
+
+<p>On this occasion, SP Inderjit Mehta, the leaders of various political parties, workers, forest department and officers of CRPF, school children planted trees. While addressing the river festival, Congress MP Geeta Koda appreciated this initiative of the government and said that there is a need for a mass movement to save water and forests.</p>
+
+
+
+<p>Everyone should be connected to it, it is not possible to preserve water until the trees are formed. That is why the government&#8217;s program of plantation along river banks is commendable. JMM legislator Deepak Birua also lauded the government&#8217;s initiative and said that JMM&#8217;s slogan is saving the forest, forest, and land. That&#8217;s why we are all in this initiative of the government. The MLA said that if we do not save the Jungle, the next generation will also have to buy water.</p>
+
+
+
+<p>Also see &#8211;  <a href="https://www.chaibasa.org/2019/07/new-community-hall-in-gandhi-tola">New Community Hall in Chaibasa</a></p>
+
+
+
+<p> Follow us on&nbsp;<a href="https://www.facebook.com/Chaibasa.org">Facebook&nbsp;</a>and&nbsp;<a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
+
+
+
+<p>Source &#8211; <a href="https://zeenews.india.com/hindi/india/bihar-jharkhand/government-started-jal-shakti-abhiyan-plantation-started-in-chaibasa/551635">ZeeNews</a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=49&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://localhost/Chaibasa.org/author/admin">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/Chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation" rel="bookmark"><time class="entry-date published" datetime="2019-07-15T19:01:24+01:00">15th July 2019</time><time class="updated" datetime="2019-07-15T19:09:17+01:00">15th July 2019</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://localhost/Chaibasa.org/category/uncategorised" rel="category tag">Uncategorised</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://localhost/Chaibasa.org/tag/chaibasa" rel="tag">Chaibasa</a>, <a href="http://localhost/Chaibasa.org/tag/jal-shakti-abhiyan" rel="tag">Jal Shakti Abhiyan</a>, <a href="http://localhost/Chaibasa.org/tag/plantation" rel="tag">Plantation</a></span><span class="comments-link"><a href="http://localhost/Chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation#comments">3 Comments<span class="screen-reader-text"> on Jal Shakti Abhiyan and Plantation</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-416 -->
+
+<article id="post-406" class="post-406 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorised tag-community-hall tag-gandhi-tola">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://localhost/Chaibasa.org/2019/07/new-community-hall-in-gandhi-tola" rel="bookmark">New Community Hall in Gandhi Tola</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<a class="post-thumbnail" href="http://localhost/Chaibasa.org/2019/07/new-community-hall-in-gandhi-tola" aria-hidden="true">
+		<img width="650" height="311" src="http://localhost/Chaibasa.org/wp-content/uploads/2019/07/30_06_2019-30chap1-c-2_19358475_19951.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="New Community Hall in Gandhi Tola" loading="lazy" srcset="http://localhost/Chaibasa.org/wp-content/uploads/2019/07/30_06_2019-30chap1-c-2_19358475_19951.jpg 650w, http://localhost/Chaibasa.org/wp-content/uploads/2019/07/30_06_2019-30chap1-c-2_19358475_19951-300x144.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px" />	</a>
+
+		
+	<div class="entry-content">
+		
+<p>The people of Gandhi Tola, Chaibasa will not have to wander around for marriage and other small programs. For this, a community building will be constructed at the cost of Rs 8,30,600, right next to the Shree Shree Durga Puja Mandap Gandhi Tola. This community building will be made from the fund of the JMM legislator Deepak Biruva. </p>
+
+
+
+<p>There will be a hall, a balcony, a room, and a toilet in the arranged fashion. On this matter, MLA Deepak Biruwa laid the foundation stone for the construction of a community building with duly worshiping the God and the Goddess. He addressed the people of Gandhi Tola on this occasion and said that it was an old demand of the people here that due to lack of community building in Gandhi Tola there was a problem of marriage and other small programs of the community. </p>
+
+
+
+<p>The MLA told the contractor that the community building should be completed within the time limit. There will be no compromise on the quality of the hall during construction. On this occasion Chaibasa Chamber cum Chairman of Shree Shree Gandhi Tola Durga Puja Pandal Committee, Nitin Prakash, Ghanshyam Darbara, Vilas Roy, Mukhiya Sumitra Devgam, Dumbishai Manaki Dalpati Devgam, Ashutosh Kumar alias Chhotu, Neeraj Kumar, TK Raj Mohan, Ravi Prasad, Avinash Yadav, Shubham Sinha , Utpal Gopalan, Shashi Prasad, Ratna Sinha, R Border, Anita Roy, Usha Singh, Shobha Sinha, Baby Devi etc. were present.</p>
+
+
+
+<p>Source &#8211; <a href="https://www.jagran.com/jharkhand/west-singhbhum-samudaik-bhawan-19358475.html">Jagran</a></p>
+
+
+
+<p>Also see &#8211; <a href="https://www.chaibasa.org/2019/06/uninterrupted-power-supply">Uninterrupted Power Supply in Chaibasa</a></p>
+
+
+
+<p>
+
+Follow us on&nbsp;<a href="https://www.facebook.com/Chaibasa.org">Facebook&nbsp;</a>and&nbsp;<a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=49&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://localhost/Chaibasa.org/author/admin">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/Chaibasa.org/2019/07/new-community-hall-in-gandhi-tola" rel="bookmark"><time class="entry-date published" datetime="2019-07-03T18:38:05+01:00">3rd July 2019</time><time class="updated" datetime="2019-07-03T18:38:10+01:00">3rd July 2019</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://localhost/Chaibasa.org/category/uncategorised" rel="category tag">Uncategorised</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://localhost/Chaibasa.org/tag/community-hall" rel="tag">Community Hall</a>, <a href="http://localhost/Chaibasa.org/tag/gandhi-tola" rel="tag">Gandhi Tola</a></span><span class="comments-link"><a href="http://localhost/Chaibasa.org/2019/07/new-community-hall-in-gandhi-tola#comments">1 Comment<span class="screen-reader-text"> on New Community Hall in Gandhi Tola</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-406 -->
+
+<article id="post-397" class="post-397 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorised tag-power-supply">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://localhost/Chaibasa.org/2019/06/uninterrupted-power-supply" rel="bookmark">Uninterrupted Power Supply</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<a class="post-thumbnail" href="http://localhost/Chaibasa.org/2019/06/uninterrupted-power-supply" aria-hidden="true">
+		<img width="650" height="430" src="http://localhost/Chaibasa.org/wp-content/uploads/2019/06/26_06_2019-26chap7-c-2_19346565_185347.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Uninterrupted Power Supply" loading="lazy" srcset="http://localhost/Chaibasa.org/wp-content/uploads/2019/06/26_06_2019-26chap7-c-2_19346565_185347.jpg 650w, http://localhost/Chaibasa.org/wp-content/uploads/2019/06/26_06_2019-26chap7-c-2_19346565_185347-300x198.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px" />	</a>
+
+		
+	<div class="entry-content">
+		
+<p>Rahul Purvar, MD of Jharkhand Bijli Vitran Nigam Limited(JBVNL) reviewed the various works being done by the Department of Electricity in the division on Wednesday. After this, he said that the power system of Chaibasa and Chakradharpur will be rectified by October. He also mentioned that the uninterrupted power supply will be restored in both Chaibasa and Chakradharpur as well as in rural areas. </p>
+
+
+
+<p>In the review, the GM of the Electricity Department and the Chief of the Engineer and other senior officials of Chaibasa-Chakradharpur and Jamshedpur Department were present. Rahul Purvar informed the people that 20 new power substations are being constructed for the uninterrupted power supply so that there is no problem of power cuts in the upcoming electricity. </p>
+
+
+
+<p>The rigging system is being brought in so that if a power line from one grid to the substation is interrupted, then the power can be supplied by connecting with the second grid. Then, there will be no problem of power cuts in the city and rural areas. Due to the excessive power supply, there will be less loss in the electric department. He said that now the loss of the department is 22 percent. Work is being done to reduce it to 15 percent. Deputy Commissioner Arwa Rajkamal was also present on the occasion.</p>
+
+
+
+<h3>Schemes running in the district &#8211; </h3>
+
+
+
+<ul><li>In the important urban areas of Chaibasa around 4.5 to 5 km, the underground will be done with 11 thousand KVA wire </li><li>Old 33 KVA wire will be replaced with new ones.</li><li>Two grids will be constructed in Naomundi and Chakradharpur.</li><li>By 15th August, every house will have an electric meter.</li><li>20 new power sub-stations are being constructed to ensure uninterrupted power supply in rural areas.</li><li>All villages of the Gudari block are being worked for power supply.</li><li>The department is working to ensure a 100% electricity supply by removing the faults and the imperfections.</li><li>The Polymer AV switch will be installed in the power station so that power cuts are reduced and people get better results.</li></ul>
+
+
+
+<p>Also see &#8211;<a href="https://www.chaibasa.org/2019/06/road-safety"> Road Safety in Chaibasa</a></p>
+
+
+
+<p>Follow us on <a href="https://www.facebook.com/Chaibasa.org">Facebook&nbsp;</a>and&nbsp;<a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
+
+
+
+<p>Source :- <a href="https://www.jagran.com/jharkhand/west-singhbhum-electrc-dept-meeting-19346565.html">Jagran</a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=49&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://localhost/Chaibasa.org/author/admin">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/Chaibasa.org/2019/06/uninterrupted-power-supply" rel="bookmark"><time class="entry-date published" datetime="2019-06-27T14:40:59+01:00">27th June 2019</time><time class="updated" datetime="2019-06-27T14:47:47+01:00">27th June 2019</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://localhost/Chaibasa.org/category/uncategorised" rel="category tag">Uncategorised</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://localhost/Chaibasa.org/tag/power-supply" rel="tag">Power Supply</a></span><span class="comments-link"><a href="http://localhost/Chaibasa.org/2019/06/uninterrupted-power-supply#comments">1 Comment<span class="screen-reader-text"> on Uninterrupted Power Supply</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-397 -->
+
+<article id="post-392" class="post-392 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorised tag-road-safety">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://localhost/Chaibasa.org/2019/06/road-safety" rel="bookmark">Road Safety</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<a class="post-thumbnail" href="http://localhost/Chaibasa.org/2019/06/road-safety" aria-hidden="true">
+		<img width="650" height="484" src="http://localhost/Chaibasa.org/wp-content/uploads/2019/06/25_06_2019-25chap7-c-3_19343801_20326-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Road Safety" loading="lazy" srcset="http://localhost/Chaibasa.org/wp-content/uploads/2019/06/25_06_2019-25chap7-c-3_19343801_20326-1.jpg 650w, http://localhost/Chaibasa.org/wp-content/uploads/2019/06/25_06_2019-25chap7-c-3_19343801_20326-1-300x223.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px" />	</a>
+
+		
+	<div class="entry-content">
+		
+<p>The monthly meeting of the Road Safety Committee was held on Tuesday. It was held under the chairmanship of Deputy Commissioner Arwa Rajkamal. In the meeting, the Deputy Commissioner directed the executive engineer of National Highway to apply road signs in Jhinkpani-Hattgamaharia and Hattgamaharia-Jaitgarh Road. He also mentioned filling the potholes located in National Highways, and widening the roadside along Bandgaon. </p>
+
+
+
+<p>The Deputy Commissioner also mentioned that now two thousand fine will be charged for vehicles parked on the roadside. On the other hand, eye check-up camp will be organized for the drivers of heavy vehicles. He further added that the new Trauma Center will be constructed shortly for the cost of 1 crore and 20 lakh by the Uranium Corporation Limited.</p>
+
+
+
+<p> At the same time, a rural road safety committee will be constituted at the Panchayat level, in which social people will be added so that they can immediately assist the injured people in road accidents.</p>
+
+
+
+<p>Superintendent of Police Indrajit Martha instructed the police stations to conduct helmets and vehicle checks in all the places extensively to prevent major road accidents and injuries. The overloaded vehicles will also be examined strictly.</p>
+
+
+
+<p> Follow us on&nbsp;<a href="https://www.facebook.com/Chaibasa.org">Facebook&nbsp;</a>and&nbsp;<a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
+
+
+
+<p>Also see &#8211; <a href="https://www.chaibasa.org/2019/06/joda-talab-to-be-renovated">Joda Talab to be renovated.</a></p>
+
+
+
+<p>Source :- <a href="https://www.jagran.com/jharkhand/west-singhbhum-dc-meeting-news-19343801.html">Jagran</a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=49&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://localhost/Chaibasa.org/author/admin">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/Chaibasa.org/2019/06/road-safety" rel="bookmark"><time class="entry-date published" datetime="2019-06-25T16:52:19+01:00">25th June 2019</time><time class="updated" datetime="2019-06-27T14:44:11+01:00">27th June 2019</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://localhost/Chaibasa.org/category/uncategorised" rel="category tag">Uncategorised</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://localhost/Chaibasa.org/tag/road-safety" rel="tag">Road Safety</a></span><span class="comments-link"><a href="http://localhost/Chaibasa.org/2019/06/road-safety#comments">1 Comment<span class="screen-reader-text"> on Road Safety</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-392 -->
+
+<article id="post-388" class="post-388 post type-post status-publish format-standard hentry category-uncategorised tag-chaibasa tag-joda-talab">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://localhost/Chaibasa.org/2019/06/joda-talab-to-be-renovated" rel="bookmark">Joda Talab to be renovated</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<figure class="wp-block-image is-resized"><img loading="lazy" src="https://www.chaibasa.org/wp-content/uploads/2019/06/HH_CHB05JAM_5_FEB_CBSA_P11_1518004037_1518004037.jpg" alt="Joda Talab, Chaibasa" class="wp-image-389" width="609" height="457" srcset="http://localhost/Chaibasa.org/wp-content/uploads/2019/06/HH_CHB05JAM_5_FEB_CBSA_P11_1518004037_1518004037.jpg 480w, http://localhost/Chaibasa.org/wp-content/uploads/2019/06/HH_CHB05JAM_5_FEB_CBSA_P11_1518004037_1518004037-300x225.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Joda Talab, Chaibasa</figcaption></figure>
+
+
+
+<p>Another good news for people of Chaibasa.  First Jubilee Lake, then Dada-Dadi Park and now Joda Talab is going to be renovated and a park is going to be constructed around the lake.</p>
+
+
+
+<p>This Winter, the City Council is going to give us a gift for our morning walk in the cold weather. For this, almost all the preparations have been done by the city council. This long-running project of the Chaibasa town, which is pending for several years could be taken up this year. But if it rains heavily in July then the work can stop because the city council will take one month for this process.</p>
+
+
+
+<p>On June 18, the City Development Department Ranchi has transferred <strong> 6 Crore 13 lakh rupees</strong> to Chaibasa Nagar Parishad for the renovation and beautification of Joda Talab. But this money will take around a week to come into the account of the City Council as this amount will be deposited in the accounts of the City Council Chaibasa only after the required order and signature of the Deputy Commissioner. </p>
+
+
+
+<p>Subsequently, the Municipal Council will issue tender for the restoration and beautification of Joda Talab. Overall, the restoration and beautification of the added pond will take one month to start. In the meantime, if it rains, then the pond will be filled with water and the contractor will have to stop the work. It will take at least 15 days to clean it.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>People will get many facilities in and around the pond.</p>
+
+
+
+<p>Steel railing will be constructed around the pond. Stone boulder will be applied. A three meter leaf block will be laid. Grass and plantation will be done. The chair will be seated with the block. Two rounded stairs and one straight stair will be installed in the pond. A machine will be installed to filter the water the pond of the small pond so that the filtered water could be brought to the larger pond. ETP (Effect Treatment Plant) and CETP (Common Treatment Plant) will be installed. Three big fountains will be planted with lightning in the bigger pond. Street lights will be mounted around the pond. Besides this, dustbins will be installed to avoid dirt around the pond. The grass will be planted around the pond.</p>
+
+
+
+<p>For a long time, the path of restoration and beautification of Joda Talab in the middle of Chaibasa city has become clear. For this, the City Development Department has transferred six crores and 13 lakh rupees to the bank account of City Council Chaibasa. Now a little government process is left, it will be completed soon and the tender will be done so that the work of restoration and beautification can be started.</p>
+
+
+
+<p>Source &#8211; <a href="https://www.jagran.com/jharkhand/west-singhbhum-taalab-nirmaan-19326771.html">Jagran</a></p>
+
+
+
+<p>Also see &#8211; <a href="https://www.chaibasa.org/2019/06/dada-dadi-park-inaugurated-in-chaibasa">Dada Dadi Park in Chaibasa</a></p>
+
+
+
+<p>
+
+Follow us on&nbsp;<a href="https://www.facebook.com/Chaibasa.org">Facebook&nbsp;</a>and&nbsp;<a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=49&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9b5f9f80405ab41926b46dc2fdf3ab15?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://localhost/Chaibasa.org/author/admin">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/Chaibasa.org/2019/06/joda-talab-to-be-renovated" rel="bookmark"><time class="entry-date published" datetime="2019-06-20T17:57:19+01:00">20th June 2019</time><time class="updated" datetime="2019-06-20T17:57:24+01:00">20th June 2019</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://localhost/Chaibasa.org/category/uncategorised" rel="category tag">Uncategorised</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://localhost/Chaibasa.org/tag/chaibasa" rel="tag">Chaibasa</a>, <a href="http://localhost/Chaibasa.org/tag/joda-talab" rel="tag">Joda Talab</a></span><span class="comments-link"><a href="http://localhost/Chaibasa.org/2019/06/joda-talab-to-be-renovated#comments">1 Comment<span class="screen-reader-text"> on Joda Talab to be renovated</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-388 -->
+
+	<nav class="navigation pagination" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><span aria-current="page" class="page-numbers current"><span class="meta-nav screen-reader-text">Page </span>1</span>
+<a class="page-numbers" href="http://localhost/Chaibasa.org/2019/page/2"><span class="meta-nav screen-reader-text">Page </span>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="http://localhost/Chaibasa.org/2019/page/5"><span class="meta-nav screen-reader-text">Page </span>5</a>
+<a class="next page-numbers" href="http://localhost/Chaibasa.org/2019/page/2">Next page</a></div>
+	</nav>
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+		<section id="search-2" class="widget widget_search">
+<form role="search" method="get" class="search-form" action="http://localhost/Chaibasa.org/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+	</label>
+	<button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button>
+</form>
+</section><section id="custom_html-3" class="widget_text widget widget_custom_html"><h2 class="widget-title">Advertisements</h2><div class="textwidget custom-html-widget"><iframe width='300' height='250' frameborder='0' scrolling='no' src='https://widget.cuelinks.com/widgets/31863?pub_id=45063CL40649'></iframe></div></section>
+		<section id="recent-posts-2" class="widget widget_recent_entries">
+		<h2 class="widget-title">Recent Posts</h2><nav role="navigation" aria-label="Recent Posts">
+		<ul>
+											<li>
+					<a href="http://localhost/Chaibasa.org/2020/10/free-coaching-center-opened-in-gutusai-chaibasa">Free Coaching Center opened in Gutusai, Chaibasa</a>
+									</li>
+											<li>
+					<a href="http://localhost/Chaibasa.org/2020/04/fight-against-coronavirus-in-west-singhbhum">Fight against Coronavirus in West Singhbhum</a>
+									</li>
+											<li>
+					<a href="http://localhost/Chaibasa.org/2020/02/film-shooting-in-chaibasa">Film Shooting in Chaibasa</a>
+									</li>
+											<li>
+					<a href="http://localhost/Chaibasa.org/2020/02/professional-training-in-chaibasa-engineering-college">Professional training in Chaibasa Engineering College</a>
+									</li>
+											<li>
+					<a href="http://localhost/Chaibasa.org/2020/02/35-people-fined-in-2-days-recovered-60-thousand">35 people fined in 2 days, recovered 60 thousand</a>
+									</li>
+					</ul>
+
+		</nav></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2><nav role="navigation" aria-label="Archives">
+			<ul>
+					<li><a href='http://localhost/Chaibasa.org/2020/10'>October 2020</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2020/04'>April 2020</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2020/02'>February 2020</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2019/12'>December 2019</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2019/09'>September 2019</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2019/08'>August 2019</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2019/07'>July 2019</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2019/06'>June 2019</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2019/05'>May 2019</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2019/04'>April 2019</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2019/03'>March 2019</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2019/02'>February 2019</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2019/01'>January 2019</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2018/12'>December 2018</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2018/11'>November 2018</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2018/10'>October 2018</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2018/09'>September 2018</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2018/06'>June 2018</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2018/05'>May 2018</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2018/04'>April 2018</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2018/03'>March 2018</a></li>
+	<li><a href='http://localhost/Chaibasa.org/2018/02'>February 2018</a></li>
+			</ul>
+
+			</nav></section>	</aside><!-- .sidebar .widget-area -->
+
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+							<nav class="main-navigation" role="navigation" aria-label="Footer Primary Menu">
+					<div class="menu-primary-container"><ul id="menu-primary-1" class="primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-172"><a href="http://localhost/Chaibasa.org/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-131"><a href="http://localhost/Chaibasa.org/education">Education</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="http://localhost/Chaibasa.org/schools">Schools</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="http://localhost/Chaibasa.org/college">College</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-168"><a href="http://localhost/Chaibasa.org/markets">Markets</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://localhost/Chaibasa.org/restaurants">Restaurants  and Hotels</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="http://localhost/Chaibasa.org/non-profit-organisations">Non-Profit Organisations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="http://localhost/Chaibasa.org/gardens-and-parks">Recreational</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="http://localhost/Chaibasa.org/photo-gallery">Photo Gallery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-123"><a href="http://localhost/Chaibasa.org/blog">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-124"><a href="http://localhost/Chaibasa.org/contact">Contact</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="http://localhost/Chaibasa.org/important-offices-in-chaibasa">Important Offices in Chaibasa</a></li>
+</ul>
+</li>
+</ul></div>				</nav><!-- .main-navigation -->
+			
+			
+			<div class="site-info">
+								<span class="site-title"><a href="http://localhost/Chaibasa.org/" rel="home">Chaibasa</a></span>
+								<a href="https://wordpress.org/" class="imprint">
+					Proudly powered by WordPress				</a>
+			</div><!-- .site-info -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+<script src='http://localhost/Chaibasa.org/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js?ver=20170530' id='twentysixteen-skip-link-focus-fix-js'></script>
+<script id='twentysixteen-script-js-extra'>
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+</script>
+<script src='http://localhost/Chaibasa.org/wp-content/themes/twentysixteen/js/functions.js?ver=20181217' id='twentysixteen-script-js'></script>
+</body>
+</html>
