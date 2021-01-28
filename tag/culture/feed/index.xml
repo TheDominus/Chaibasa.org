@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Culture &#8211; Chaibasa</title>
-	<atom:link href="https://www.chaibasa.org/tag/culture/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.chaibasa.org</link>
+	<atom:link href="/https://www.chaibasa.org/tag/culture/feed" rel="self" type="application/rss+xml" />
+	<link>/https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Sat, 22 Feb 2020 16:25:30 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 
 <image>
-	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>Culture &#8211; Chaibasa</title>
-	<link>https://www.chaibasa.org</link>
+	<link>/https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Film Shooting in Chaibasa</title>
-		<link>https://www.chaibasa.org/2020/02/film-shooting-in-chaibasa</link>
-					<comments>https://www.chaibasa.org/2020/02/film-shooting-in-chaibasa#respond</comments>
+		<link>/https://www.chaibasa.org/2020/02/film-shooting-in-chaibasa</link>
+					<comments>/https://www.chaibasa.org/2020/02/film-shooting-in-chaibasa#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 22 Feb 2020 16:25:29 +0000</pubDate>
@@ -38,9 +38,9 @@
 		<category><![CDATA[Film Shooting]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=472</guid>
 
-					<description><![CDATA[The shooting of a two-and-a-half-hour social film (Roove Huju: Geyaa Judee Taangee Re Taeen Mein) started under the banner of Kolhan Entertainment. The film depicts tribal customs. In today&#8217;s era, people are forgetting about their past culture. The film will depict the culture of tribals. The film is produced by Kolhan Entertainment&#8217;s producer Bablu Banra &#8230; <a href="https://www.chaibasa.org/2020/02/film-shooting-in-chaibasa" class="more-link">Continue reading<span class="screen-reader-text"> "Film Shooting in Chaibasa"</span></a>]]></description>
+					<description><![CDATA[The shooting of a two-and-a-half-hour social film (Roove Huju: Geyaa Judee Taangee Re Taeen Mein) started under the banner of Kolhan Entertainment. The film depicts tribal customs. In today&#8217;s era, people are forgetting about their past culture. The film will depict the culture of tribals. The film is produced by Kolhan Entertainment&#8217;s producer Bablu Banra &#8230; <a href="/https://www.chaibasa.org/2020/02/film-shooting-in-chaibasa" class="more-link">Continue reading<span class="screen-reader-text"> "Film Shooting in Chaibasa"</span></a>]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="650" height="269" src="https://www.chaibasa.org/wp-content/uploads/2020/02/Film-Shooting-in-Chaibasa.jpg" alt="" class="wp-image-473" srcset="https://www.chaibasa.org/wp-content/uploads/2020/02/Film-Shooting-in-Chaibasa.jpg 650w, https://www.chaibasa.org/wp-content/uploads/2020/02/Film-Shooting-in-Chaibasa-300x124.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Film Shooting in Chaibasa under Kolhan Entertainment.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="650" height="269" src="https://www.chaibasa.org/wp-content/uploads/2020/02/Film-Shooting-in-Chaibasa.jpg" alt="" class="wp-image-473" srcset="/https://www.chaibasa.org/wp-content/uploads/2020/02/Film-Shooting-in-Chaibasa.jpg 650w, /https://www.chaibasa.org/wp-content/uploads/2020/02/Film-Shooting-in-Chaibasa-300x124.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Film Shooting in Chaibasa under Kolhan Entertainment.</figcaption></figure>
 
 
 
@@ -67,7 +67,7 @@
 <p>Source:- <a href="https://www.jagran.com/jharkhand/west-singhbhum-cultural-program-20048448.html">Jagran</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.chaibasa.org/2020/02/film-shooting-in-chaibasa/feed</wfw:commentRss>
+					<wfw:commentRss>/https://www.chaibasa.org/2020/02/film-shooting-in-chaibasa/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

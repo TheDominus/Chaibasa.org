@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Jail Break &#8211; Chaibasa</title>
-	<atom:link href="https://www.chaibasa.org/tag/jail-break/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.chaibasa.org</link>
+	<atom:link href="/https://www.chaibasa.org/tag/jail-break/feed" rel="self" type="application/rss+xml" />
+	<link>/https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Wed, 10 Oct 2018 10:20:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 
 <image>
-	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>Jail Break &#8211; Chaibasa</title>
-	<link>https://www.chaibasa.org</link>
+	<link>/https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Jail Break Conspiracy Case in Chaibasa</title>
-		<link>https://www.chaibasa.org/2018/10/jail-break-conspiracy-case-in-chaibasa</link>
-					<comments>https://www.chaibasa.org/2018/10/jail-break-conspiracy-case-in-chaibasa#respond</comments>
+		<link>/https://www.chaibasa.org/2018/10/jail-break-conspiracy-case-in-chaibasa</link>
+					<comments>/https://www.chaibasa.org/2018/10/jail-break-conspiracy-case-in-chaibasa#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 10 Oct 2018 10:20:00 +0000</pubDate>
@@ -39,7 +39,7 @@
 		<category><![CDATA[Jail Break]]></category>
 		<guid isPermaLink="false">https://chaibasa762672159.wordpress.com/2018/10/10/jail-break-conspiracy-case-in-chaibasa/</guid>
 
-					<description><![CDATA[BJP District President of Scheduled Caste in Chaibasa Ramashankar Pandey, along with three other persons, has been arrested allegedly for hatching a conspiracy for executing a jailbreak to free some dreaded Maoists from Chaibasa division jail. Police said that the three other arrested persons &#8211; Vijay Khalkho, Chamu Munda and Juel Horo were the security &#8230; <a href="https://www.chaibasa.org/2018/10/jail-break-conspiracy-case-in-chaibasa" class="more-link">Continue reading<span class="screen-reader-text"> "Jail Break Conspiracy Case in Chaibasa"</span></a>]]></description>
+					<description><![CDATA[BJP District President of Scheduled Caste in Chaibasa Ramashankar Pandey, along with three other persons, has been arrested allegedly for hatching a conspiracy for executing a jailbreak to free some dreaded Maoists from Chaibasa division jail. Police said that the three other arrested persons &#8211; Vijay Khalkho, Chamu Munda and Juel Horo were the security &#8230; <a href="/https://www.chaibasa.org/2018/10/jail-break-conspiracy-case-in-chaibasa" class="more-link">Continue reading<span class="screen-reader-text"> "Jail Break Conspiracy Case in Chaibasa"</span></a>]]></description>
 										<content:encoded><![CDATA[<div dir="ltr" style="text-align:left;">
 <div>BJP District President of Scheduled Caste in Chaibasa Ramashankar Pandey, along with three other persons, has been arrested allegedly for hatching a conspiracy for executing a jailbreak to free some dreaded Maoists from Chaibasa division jail.</div>
 <div>Police said that the three other arrested persons &#8211; Vijay Khalkho, Chamu Munda and Juel Horo were the security guards who were currently deputed in Chaibasa Division Jail.</div>
@@ -54,7 +54,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.chaibasa.org/2018/10/jail-break-conspiracy-case-in-chaibasa/feed</wfw:commentRss>
+					<wfw:commentRss>/https://www.chaibasa.org/2018/10/jail-break-conspiracy-case-in-chaibasa/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

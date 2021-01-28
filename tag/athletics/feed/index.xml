@@ -9,8 +9,8 @@
 
 <channel>
 	<title>athletics &#8211; Chaibasa</title>
-	<atom:link href="https://www.chaibasa.org/tag/athletics/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.chaibasa.org</link>
+	<atom:link href="/https://www.chaibasa.org/tag/athletics/feed" rel="self" type="application/rss+xml" />
+	<link>/https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Tue, 23 Jul 2019 18:19:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 
 <image>
-	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>athletics &#8211; Chaibasa</title>
-	<link>https://www.chaibasa.org</link>
+	<link>/https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>District Athletic Championship</title>
-		<link>https://www.chaibasa.org/2019/07/district-athletic-championship</link>
-					<comments>https://www.chaibasa.org/2019/07/district-athletic-championship#comments</comments>
+		<link>/https://www.chaibasa.org/2019/07/district-athletic-championship</link>
+					<comments>/https://www.chaibasa.org/2019/07/district-athletic-championship#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 23 Jul 2019 18:07:13 +0000</pubDate>
@@ -39,7 +39,7 @@
 		<category><![CDATA[sports]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=429</guid>
 
-					<description><![CDATA[On the 27th and 28th of July, the West Singhbhum District Athletics Championship will be held in Zila School Ground. General secretary of West Singhbhum District Athletics Association Ajay Kumar Nayak told that participants from different age groups can participate in this competition. Participants can participate in various categories of under-12 boys and girls, under &#8230; <a href="https://www.chaibasa.org/2019/07/district-athletic-championship" class="more-link">Continue reading<span class="screen-reader-text"> "District Athletic Championship"</span></a>]]></description>
+					<description><![CDATA[On the 27th and 28th of July, the West Singhbhum District Athletics Championship will be held in Zila School Ground. General secretary of West Singhbhum District Athletics Association Ajay Kumar Nayak told that participants from different age groups can participate in this competition. Participants can participate in various categories of under-12 boys and girls, under &#8230; <a href="/https://www.chaibasa.org/2019/07/district-athletic-championship" class="more-link">Continue reading<span class="screen-reader-text"> "District Athletic Championship"</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>On the 27th and 28th of July, the West Singhbhum District Athletics Championship will be held in Zila School Ground. General secretary of West Singhbhum District Athletics Association Ajay Kumar Nayak told that participants from different age groups can participate in this competition. </p>
 
@@ -64,7 +64,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.chaibasa.org/2019/07/district-athletic-championship/feed</wfw:commentRss>
+					<wfw:commentRss>/https://www.chaibasa.org/2019/07/district-athletic-championship/feed</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

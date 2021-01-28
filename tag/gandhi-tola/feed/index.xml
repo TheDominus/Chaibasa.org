@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Gandhi Tola &#8211; Chaibasa</title>
-	<atom:link href="https://www.chaibasa.org/tag/gandhi-tola/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.chaibasa.org</link>
+	<atom:link href="/https://www.chaibasa.org/tag/gandhi-tola/feed" rel="self" type="application/rss+xml" />
+	<link>/https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Wed, 03 Jul 2019 17:38:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 
 <image>
-	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>Gandhi Tola &#8211; Chaibasa</title>
-	<link>https://www.chaibasa.org</link>
+	<link>/https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>New Community Hall in Gandhi Tola</title>
-		<link>https://www.chaibasa.org/2019/07/new-community-hall-in-gandhi-tola</link>
-					<comments>https://www.chaibasa.org/2019/07/new-community-hall-in-gandhi-tola#comments</comments>
+		<link>/https://www.chaibasa.org/2019/07/new-community-hall-in-gandhi-tola</link>
+					<comments>/https://www.chaibasa.org/2019/07/new-community-hall-in-gandhi-tola#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 03 Jul 2019 17:38:05 +0000</pubDate>
@@ -39,7 +39,7 @@
 		<category><![CDATA[Gandhi Tola]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=406</guid>
 
-					<description><![CDATA[The people of Gandhi Tola, Chaibasa will not have to wander around for marriage and other small programs. For this, a community building will be constructed at the cost of Rs 8,30,600, right next to the Shree Shree Durga Puja Mandap Gandhi Tola. This community building will be made from the fund of the JMM &#8230; <a href="https://www.chaibasa.org/2019/07/new-community-hall-in-gandhi-tola" class="more-link">Continue reading<span class="screen-reader-text"> "New Community Hall in Gandhi Tola"</span></a>]]></description>
+					<description><![CDATA[The people of Gandhi Tola, Chaibasa will not have to wander around for marriage and other small programs. For this, a community building will be constructed at the cost of Rs 8,30,600, right next to the Shree Shree Durga Puja Mandap Gandhi Tola. This community building will be made from the fund of the JMM &#8230; <a href="/https://www.chaibasa.org/2019/07/new-community-hall-in-gandhi-tola" class="more-link">Continue reading<span class="screen-reader-text"> "New Community Hall in Gandhi Tola"</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>The people of Gandhi Tola, Chaibasa will not have to wander around for marriage and other small programs. For this, a community building will be constructed at the cost of Rs 8,30,600, right next to the Shree Shree Durga Puja Mandap Gandhi Tola. This community building will be made from the fund of the JMM legislator Deepak Biruva. </p>
 
@@ -66,7 +66,7 @@
 Follow us on&nbsp;<a href="https://www.facebook.com/Chaibasa.org">Facebook&nbsp;</a>and&nbsp;<a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.chaibasa.org/2019/07/new-community-hall-in-gandhi-tola/feed</wfw:commentRss>
+					<wfw:commentRss>/https://www.chaibasa.org/2019/07/new-community-hall-in-gandhi-tola/feed</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

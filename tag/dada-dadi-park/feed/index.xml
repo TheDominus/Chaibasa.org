@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Dada Dadi Park &#8211; Chaibasa</title>
-	<atom:link href="https://www.chaibasa.org/tag/dada-dadi-park/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.chaibasa.org</link>
+	<atom:link href="/https://www.chaibasa.org/tag/dada-dadi-park/feed" rel="self" type="application/rss+xml" />
+	<link>/https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Thu, 20 Jun 2019 11:26:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 
 <image>
-	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>Dada Dadi Park &#8211; Chaibasa</title>
-	<link>https://www.chaibasa.org</link>
+	<link>/https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Dada Dadi Park Inaugurated in Chaibasa</title>
-		<link>https://www.chaibasa.org/2019/06/dada-dadi-park-inaugurated-in-chaibasa</link>
-					<comments>https://www.chaibasa.org/2019/06/dada-dadi-park-inaugurated-in-chaibasa#comments</comments>
+		<link>/https://www.chaibasa.org/2019/06/dada-dadi-park-inaugurated-in-chaibasa</link>
+					<comments>/https://www.chaibasa.org/2019/06/dada-dadi-park-inaugurated-in-chaibasa#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 20 Jun 2019 11:26:51 +0000</pubDate>
@@ -38,9 +38,9 @@
 		<category><![CDATA[Dada Dadi Park]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=383</guid>
 
-					<description><![CDATA[Dada-Dadi Park constructed by the city council for the cost of 95 lakh rupees was inaugurated on Wednesday. With the inauguration of the park, the elderly people living around here can roam in the park during morning and evening and get health benefits. Open gym and swings are built for children and fitness of youth. &#8230; <a href="https://www.chaibasa.org/2019/06/dada-dadi-park-inaugurated-in-chaibasa" class="more-link">Continue reading<span class="screen-reader-text"> "Dada Dadi Park Inaugurated in Chaibasa"</span></a>]]></description>
+					<description><![CDATA[Dada-Dadi Park constructed by the city council for the cost of 95 lakh rupees was inaugurated on Wednesday. With the inauguration of the park, the elderly people living around here can roam in the park during morning and evening and get health benefits. Open gym and swings are built for children and fitness of youth. &#8230; <a href="/https://www.chaibasa.org/2019/06/dada-dadi-park-inaugurated-in-chaibasa" class="more-link">Continue reading<span class="screen-reader-text"> "Dada Dadi Park Inaugurated in Chaibasa"</span></a>]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img loading="lazy" width="650" height="487" src="https://www.chaibasa.org/wp-content/uploads/2019/06/19_06_2019-19chap23-c-2_19326938_21419.jpg" alt="Dada Dadi Park" class="wp-image-384" srcset="https://www.chaibasa.org/wp-content/uploads/2019/06/19_06_2019-19chap23-c-2_19326938_21419.jpg 650w, https://www.chaibasa.org/wp-content/uploads/2019/06/19_06_2019-19chap23-c-2_19326938_21419-300x225.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Dada Dadi Park</figcaption></figure>
+<figure class="wp-block-image"><img loading="lazy" width="650" height="487" src="https://www.chaibasa.org/wp-content/uploads/2019/06/19_06_2019-19chap23-c-2_19326938_21419.jpg" alt="Dada Dadi Park" class="wp-image-384" srcset="/https://www.chaibasa.org/wp-content/uploads/2019/06/19_06_2019-19chap23-c-2_19326938_21419.jpg 650w, /https://www.chaibasa.org/wp-content/uploads/2019/06/19_06_2019-19chap23-c-2_19326938_21419-300x225.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Dada Dadi Park</figcaption></figure>
 
 
 
@@ -77,7 +77,7 @@
 Follow us on&nbsp;<a href="https://www.facebook.com/Chaibasa.org">Facebook&nbsp;</a>and&nbsp;<a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.chaibasa.org/2019/06/dada-dadi-park-inaugurated-in-chaibasa/feed</wfw:commentRss>
+					<wfw:commentRss>/https://www.chaibasa.org/2019/06/dada-dadi-park-inaugurated-in-chaibasa/feed</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

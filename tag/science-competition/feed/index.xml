@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Science Competition &#8211; Chaibasa</title>
-	<atom:link href="https://www.chaibasa.org/tag/science-competition/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.chaibasa.org</link>
+	<atom:link href="/https://www.chaibasa.org/tag/science-competition/feed" rel="self" type="application/rss+xml" />
+	<link>/https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Wed, 31 Jul 2019 13:45:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 
 <image>
-	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>Science Competition &#8211; Chaibasa</title>
-	<link>https://www.chaibasa.org</link>
+	<link>/https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Painting, General Knowledge and Science Competition</title>
-		<link>https://www.chaibasa.org/2019/07/painting-general-knowledge-and-science-competition</link>
-					<comments>https://www.chaibasa.org/2019/07/painting-general-knowledge-and-science-competition#respond</comments>
+		<link>/https://www.chaibasa.org/2019/07/painting-general-knowledge-and-science-competition</link>
+					<comments>/https://www.chaibasa.org/2019/07/painting-general-knowledge-and-science-competition#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 31 Jul 2019 13:45:23 +0000</pubDate>
@@ -39,7 +39,7 @@
 		<category><![CDATA[Science Competition]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=436</guid>
 
-					<description><![CDATA[6th Inter-School Painting, General Knowledge and Science Competition is being organized by the Gaints Group of Chaibasa and sponsored by &#8216;Satyam Builders&#8217;, under the &#8216;Knowledge-Campaign 2019&#8217; program, on August 4 (Sunday) at local Padmavati Jain Saraswati Shishu Vidya Mandir in Chaibasa Like every year, this painting contest is for students from class LKG to class &#8230; <a href="https://www.chaibasa.org/2019/07/painting-general-knowledge-and-science-competition" class="more-link">Continue reading<span class="screen-reader-text"> "Painting, General Knowledge and Science Competition"</span></a>]]></description>
+					<description><![CDATA[6th Inter-School Painting, General Knowledge and Science Competition is being organized by the Gaints Group of Chaibasa and sponsored by &#8216;Satyam Builders&#8217;, under the &#8216;Knowledge-Campaign 2019&#8217; program, on August 4 (Sunday) at local Padmavati Jain Saraswati Shishu Vidya Mandir in Chaibasa Like every year, this painting contest is for students from class LKG to class &#8230; <a href="/https://www.chaibasa.org/2019/07/painting-general-knowledge-and-science-competition" class="more-link">Continue reading<span class="screen-reader-text"> "Painting, General Knowledge and Science Competition"</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>6th Inter-School Painting, General Knowledge and Science Competition is  <br>being organized by the Gaints Group of Chaibasa and sponsored by &#8216;Satyam Builders&#8217;, under the &#8216;Knowledge-Campaign 2019&#8217; program,  on August 4 (Sunday) at local Padmavati Jain Saraswati Shishu Vidya Mandir in Chaibasa </p>
 
@@ -84,7 +84,7 @@
 <p>Source &#8211; <a href="https://www.jagran.com/jharkhand/west-singhbhum-education-19449389.html">Jagran</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.chaibasa.org/2019/07/painting-general-knowledge-and-science-competition/feed</wfw:commentRss>
+					<wfw:commentRss>/https://www.chaibasa.org/2019/07/painting-general-knowledge-and-science-competition/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

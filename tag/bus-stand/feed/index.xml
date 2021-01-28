@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Bus stand &#8211; Chaibasa</title>
-	<atom:link href="https://www.chaibasa.org/tag/bus-stand/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.chaibasa.org</link>
+	<atom:link href="/https://www.chaibasa.org/tag/bus-stand/feed" rel="self" type="application/rss+xml" />
+	<link>/https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Mon, 16 Sep 2019 17:53:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 
 <image>
-	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>Bus stand &#8211; Chaibasa</title>
-	<link>https://www.chaibasa.org</link>
+	<link>/https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Renovation of Bus Stand in Chaibasa</title>
-		<link>https://www.chaibasa.org/2019/09/renovation-of-bus-stand-in-chaibasa</link>
-					<comments>https://www.chaibasa.org/2019/09/renovation-of-bus-stand-in-chaibasa#comments</comments>
+		<link>/https://www.chaibasa.org/2019/09/renovation-of-bus-stand-in-chaibasa</link>
+					<comments>/https://www.chaibasa.org/2019/09/renovation-of-bus-stand-in-chaibasa#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 16 Sep 2019 17:53:42 +0000</pubDate>
@@ -38,9 +38,9 @@
 		<category><![CDATA[Bus stand]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=453</guid>
 
-					<description><![CDATA[Chaibasa bus stand is going to be renovated and a new bus stand is going to be constructed very soon. In this regard, the exercise has been started by the city council of Chaibasa. This time the bus stand will be prepared as a model of Ranchi-Khadagara bus stand. On Monday 16th Sept, City Council &#8230; <a href="https://www.chaibasa.org/2019/09/renovation-of-bus-stand-in-chaibasa" class="more-link">Continue reading<span class="screen-reader-text"> "Renovation of Bus Stand in Chaibasa"</span></a>]]></description>
+					<description><![CDATA[Chaibasa bus stand is going to be renovated and a new bus stand is going to be constructed very soon. In this regard, the exercise has been started by the city council of Chaibasa. This time the bus stand will be prepared as a model of Ranchi-Khadagara bus stand. On Monday 16th Sept, City Council &#8230; <a href="/https://www.chaibasa.org/2019/09/renovation-of-bus-stand-in-chaibasa" class="more-link">Continue reading<span class="screen-reader-text"> "Renovation of Bus Stand in Chaibasa"</span></a>]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="https://www.chaibasa.org/wp-content/uploads/2019/09/Bus-Stand-Chowk-Chaibasa-1024x576.jpg" alt="" class="wp-image-454" srcset="https://www.chaibasa.org/wp-content/uploads/2019/09/Bus-Stand-Chowk-Chaibasa.jpg 1024w, https://www.chaibasa.org/wp-content/uploads/2019/09/Bus-Stand-Chowk-Chaibasa-300x169.jpg 300w, https://www.chaibasa.org/wp-content/uploads/2019/09/Bus-Stand-Chowk-Chaibasa-768x432.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption>Bus Stand Chowk, Chaibasa</figcaption></figure>
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="https://www.chaibasa.org/wp-content/uploads/2019/09/Bus-Stand-Chowk-Chaibasa-1024x576.jpg" alt="" class="wp-image-454" srcset="/https://www.chaibasa.org/wp-content/uploads/2019/09/Bus-Stand-Chowk-Chaibasa.jpg 1024w, /https://www.chaibasa.org/wp-content/uploads/2019/09/Bus-Stand-Chowk-Chaibasa-300x169.jpg 300w, /https://www.chaibasa.org/wp-content/uploads/2019/09/Bus-Stand-Chowk-Chaibasa-768x432.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption>Bus Stand Chowk, Chaibasa</figcaption></figure>
 
 
 
@@ -83,7 +83,7 @@
 <p>Follow us on <a href="https://www.facebook.com/Chaibasa.org">Facebook </a>and <a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.chaibasa.org/2019/09/renovation-of-bus-stand-in-chaibasa/feed</wfw:commentRss>
+					<wfw:commentRss>/https://www.chaibasa.org/2019/09/renovation-of-bus-stand-in-chaibasa/feed</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

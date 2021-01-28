@@ -9,8 +9,8 @@
 
 <channel>
 	<title>passport &#8211; Chaibasa</title>
-	<atom:link href="https://www.chaibasa.org/tag/passport/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.chaibasa.org</link>
+	<atom:link href="/https://www.chaibasa.org/tag/passport/feed" rel="self" type="application/rss+xml" />
+	<link>/https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Thu, 07 Mar 2019 04:33:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 
 <image>
-	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>passport &#8211; Chaibasa</title>
-	<link>https://www.chaibasa.org</link>
+	<link>/https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Passport office in Chaibasa</title>
-		<link>https://www.chaibasa.org/2019/03/passport-office-in-chaibasa</link>
-					<comments>https://www.chaibasa.org/2019/03/passport-office-in-chaibasa#respond</comments>
+		<link>/https://www.chaibasa.org/2019/03/passport-office-in-chaibasa</link>
+					<comments>/https://www.chaibasa.org/2019/03/passport-office-in-chaibasa#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 07 Mar 2019 04:33:20 +0000</pubDate>
@@ -40,9 +40,9 @@
 		<category><![CDATA[passport seva kendra]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=290</guid>
 
-					<description><![CDATA[People of West Singhbhum will not have to worry more to make passports anymore. Now, facilities for making passports can be found in the district headquarter Chaibasa. Preparing to open a passport office in the old Deputy Commissioner&#8217;s office premises of Chaibasa. This is possible due to the efforts of District Deputy Commissioner Arwa Rajkamal &#8230; <a href="https://www.chaibasa.org/2019/03/passport-office-in-chaibasa" class="more-link">Continue reading<span class="screen-reader-text"> "Passport office in Chaibasa"</span></a>]]></description>
+					<description><![CDATA[People of West Singhbhum will not have to worry more to make passports anymore. Now, facilities for making passports can be found in the district headquarter Chaibasa. Preparing to open a passport office in the old Deputy Commissioner&#8217;s office premises of Chaibasa. This is possible due to the efforts of District Deputy Commissioner Arwa Rajkamal &#8230; <a href="/https://www.chaibasa.org/2019/03/passport-office-in-chaibasa" class="more-link">Continue reading<span class="screen-reader-text"> "Passport office in Chaibasa"</span></a>]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img loading="lazy" width="678" height="452" src="https://www.chaibasa.org/wp-content/uploads/2019/03/images-1-1.jpeg" alt="" class="wp-image-292" srcset="https://www.chaibasa.org/wp-content/uploads/2019/03/images-1-1.jpeg 678w, https://www.chaibasa.org/wp-content/uploads/2019/03/images-1-1-300x200.jpeg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Indian Passport</figcaption></figure>
+<figure class="wp-block-image"><img loading="lazy" width="678" height="452" src="https://www.chaibasa.org/wp-content/uploads/2019/03/images-1-1.jpeg" alt="" class="wp-image-292" srcset="/https://www.chaibasa.org/wp-content/uploads/2019/03/images-1-1.jpeg 678w, /https://www.chaibasa.org/wp-content/uploads/2019/03/images-1-1-300x200.jpeg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Indian Passport</figcaption></figure>
 
 
 
@@ -57,7 +57,7 @@
 <p>Source :-  <a href="https://m.jagran.com/jharkhand/west-singhbhum-now-passport-to-be-built-in-chaibasa-of-kolhan-19018605.html">Jagran</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.chaibasa.org/2019/03/passport-office-in-chaibasa/feed</wfw:commentRss>
+					<wfw:commentRss>/https://www.chaibasa.org/2019/03/passport-office-in-chaibasa/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

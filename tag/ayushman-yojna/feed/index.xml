@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Ayushman Yojna &#8211; Chaibasa</title>
-	<atom:link href="https://www.chaibasa.org/tag/ayushman-yojna/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.chaibasa.org</link>
+	<atom:link href="/https://www.chaibasa.org/tag/ayushman-yojna/feed" rel="self" type="application/rss+xml" />
+	<link>/https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Wed, 12 Jun 2019 15:46:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 
 <image>
-	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>Ayushman Yojna &#8211; Chaibasa</title>
-	<link>https://www.chaibasa.org</link>
+	<link>/https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Ayushman Yojna in Private Hospitals</title>
-		<link>https://www.chaibasa.org/2019/06/ayushman-yojna-in-private-hospitals</link>
-					<comments>https://www.chaibasa.org/2019/06/ayushman-yojna-in-private-hospitals#respond</comments>
+		<link>/https://www.chaibasa.org/2019/06/ayushman-yojna-in-private-hospitals</link>
+					<comments>/https://www.chaibasa.org/2019/06/ayushman-yojna-in-private-hospitals#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 12 Jun 2019 15:46:18 +0000</pubDate>
@@ -39,9 +39,9 @@
 		<category><![CDATA[Chaibasa]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=378</guid>
 
-					<description><![CDATA[Golden cardholders from West Singhbhum district will now be able to get treatment of 150 additional diseases in the private hospital from Prime Minister Ayushman Yojna. Government of India has given exemption in the private hospital for the treatment of 150 diseases including HIV, Chikungunya, Dengue, Hernia. In the past, the above diseases were treated &#8230; <a href="https://www.chaibasa.org/2019/06/ayushman-yojna-in-private-hospitals" class="more-link">Continue reading<span class="screen-reader-text"> "Ayushman Yojna in Private Hospitals"</span></a>]]></description>
+					<description><![CDATA[Golden cardholders from West Singhbhum district will now be able to get treatment of 150 additional diseases in the private hospital from Prime Minister Ayushman Yojna. Government of India has given exemption in the private hospital for the treatment of 150 diseases including HIV, Chikungunya, Dengue, Hernia. In the past, the above diseases were treated &#8230; <a href="/https://www.chaibasa.org/2019/06/ayushman-yojna-in-private-hospitals" class="more-link">Continue reading<span class="screen-reader-text"> "Ayushman Yojna in Private Hospitals"</span></a>]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img loading="lazy" width="650" height="400" src="https://www.chaibasa.org/wp-content/uploads/2019/06/2019_2largeimg04_Feb_2019_082443502.jpg" alt="Ayushman Yojna Logo" class="wp-image-380" srcset="https://www.chaibasa.org/wp-content/uploads/2019/06/2019_2largeimg04_Feb_2019_082443502.jpg 650w, https://www.chaibasa.org/wp-content/uploads/2019/06/2019_2largeimg04_Feb_2019_082443502-300x185.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Ayushman Yojna</figcaption></figure>
+<figure class="wp-block-image"><img loading="lazy" width="650" height="400" src="https://www.chaibasa.org/wp-content/uploads/2019/06/2019_2largeimg04_Feb_2019_082443502.jpg" alt="Ayushman Yojna Logo" class="wp-image-380" srcset="/https://www.chaibasa.org/wp-content/uploads/2019/06/2019_2largeimg04_Feb_2019_082443502.jpg 650w, /https://www.chaibasa.org/wp-content/uploads/2019/06/2019_2largeimg04_Feb_2019_082443502-300x185.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Ayushman Yojna</figcaption></figure>
 
 
 
@@ -68,7 +68,7 @@
 <p>Source &#8211; <a href="https://www.prabhatkhabar.com/news/singhbhum-west/story/1293400.html">Prabhat Kabar</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.chaibasa.org/2019/06/ayushman-yojna-in-private-hospitals/feed</wfw:commentRss>
+					<wfw:commentRss>/https://www.chaibasa.org/2019/06/ayushman-yojna-in-private-hospitals/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
