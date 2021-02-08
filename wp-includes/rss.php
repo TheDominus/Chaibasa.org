@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0316</td>
-<td bgcolor="#eeeeec" align="right">408272</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">406848</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\rss.php" bgcolor="#eeeeec">...\rss.php<b>:</b>0</td>
 </tr>

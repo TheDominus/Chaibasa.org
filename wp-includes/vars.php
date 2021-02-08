@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0235</td>
-<td bgcolor="#eeeeec" align="right">404096</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">403776</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\vars.php" bgcolor="#eeeeec">...\vars.php<b>:</b>0</td>
 </tr>

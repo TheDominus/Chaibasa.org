@@ -13,8 +13,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0431</td>
-<td bgcolor="#eeeeec" align="right">406792</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">405352</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\class-wp-customize-section.php" bgcolor="#eeeeec">...\class-wp-customize-section.php<b>:</b>0</td>
 </tr>
@@ -34,8 +34,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0431</td>
-<td bgcolor="#eeeeec" align="right">406792</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">405352</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\class-wp-customize-section.php" bgcolor="#eeeeec">...\class-wp-customize-section.php<b>:</b>0</td>
 </tr>
@@ -55,8 +55,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0431</td>
-<td bgcolor="#eeeeec" align="right">406792</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">405352</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\class-wp-customize-section.php" bgcolor="#eeeeec">...\class-wp-customize-section.php<b>:</b>0</td>
 </tr>
@@ -76,8 +76,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0431</td>
-<td bgcolor="#eeeeec" align="right">406792</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">405352</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\class-wp-customize-section.php" bgcolor="#eeeeec">...\class-wp-customize-section.php<b>:</b>0</td>
 </tr>

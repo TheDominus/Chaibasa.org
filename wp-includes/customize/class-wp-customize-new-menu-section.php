@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0143</td>
-<td bgcolor="#eeeeec" align="right">406168</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">404696</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\customize\class-wp-customize-new-menu-section.php" bgcolor="#eeeeec">...\class-wp-customize-new-menu-section.php<b>:</b>0</td>
 </tr>

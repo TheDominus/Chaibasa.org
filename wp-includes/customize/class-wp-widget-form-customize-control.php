@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0116</td>
-<td bgcolor="#eeeeec" align="right">406272</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">404800</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\customize\class-wp-widget-form-customize-control.php" bgcolor="#eeeeec">...\class-wp-widget-form-customize-control.php<b>:</b>0</td>
 </tr>

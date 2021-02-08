@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0093</td>
-<td bgcolor="#eeeeec" align="right">404648</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">403896</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\sodium_compat\namespaced\Core\SipHash.php" bgcolor="#eeeeec">...\SipHash.php<b>:</b>0</td>
 </tr>

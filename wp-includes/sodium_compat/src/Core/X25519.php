@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0175</td>
-<td bgcolor="#eeeeec" align="right">405656</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">404200</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\sodium_compat\src\Core\X25519.php" bgcolor="#eeeeec">...\X25519.php<b>:</b>0</td>
 </tr>

@@ -13,8 +13,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0221</td>
-<td bgcolor="#eeeeec" align="right">415520</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">415200</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\class-simplepie.php" bgcolor="#eeeeec">...\class-simplepie.php<b>:</b>0</td>
 </tr>
@@ -34,8 +34,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0221</td>
-<td bgcolor="#eeeeec" align="right">415520</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">415200</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\class-simplepie.php" bgcolor="#eeeeec">...\class-simplepie.php<b>:</b>0</td>
 </tr>
@@ -55,8 +55,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0221</td>
-<td bgcolor="#eeeeec" align="right">415520</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">415200</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\class-simplepie.php" bgcolor="#eeeeec">...\class-simplepie.php<b>:</b>0</td>
 </tr>
@@ -76,8 +76,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0221</td>
-<td bgcolor="#eeeeec" align="right">415520</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">415200</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\class-simplepie.php" bgcolor="#eeeeec">...\class-simplepie.php<b>:</b>0</td>
 </tr>

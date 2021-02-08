@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0502</td>
-<td bgcolor="#eeeeec" align="right">404528</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">404208</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\widgets\class-wp-widget-recent-comments.php" bgcolor="#eeeeec">...\class-wp-widget-recent-comments.php<b>:</b>0</td>
 </tr>
