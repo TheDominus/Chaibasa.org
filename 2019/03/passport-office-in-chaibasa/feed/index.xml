@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Passport office in Chaibasa	</title>
-	<atom:link href="/https://www.chaibasa.org/2019/03/passport-office-in-chaibasa/feed" rel="self" type="application/rss+xml" />
-	<link>/https://www.chaibasa.org/2019/03/passport-office-in-chaibasa</link>
+	<atom:link href="https://www.chaibasa.org/2019/03/passport-office-in-chaibasa/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.chaibasa.org/2019/03/passport-office-in-chaibasa</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Thu, 07 Mar 2019 04:33:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
 </channel>
 </rss>

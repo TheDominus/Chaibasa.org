@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Jal Shakti Abhiyan &#8211; Chaibasa</title>
-	<atom:link href="/https://www.chaibasa.org/tag/jal-shakti-abhiyan/feed" rel="self" type="application/rss+xml" />
-	<link>/https://www.chaibasa.org</link>
+	<atom:link href="https://www.chaibasa.org/tag/jal-shakti-abhiyan/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Mon, 15 Jul 2019 18:09:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
 
 <image>
-	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>Jal Shakti Abhiyan &#8211; Chaibasa</title>
-	<link>/https://www.chaibasa.org</link>
+	<link>https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Jal Shakti Abhiyan and Plantation</title>
-		<link>/https://www.chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation</link>
-					<comments>/https://www.chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation#comments</comments>
+		<link>https://www.chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation</link>
+					<comments>https://www.chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 15 Jul 2019 18:01:24 +0000</pubDate>
@@ -40,7 +40,7 @@
 		<category><![CDATA[Plantation]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=416</guid>
 
-					<description><![CDATA[Water, forest and land have always been the first priority for the people of Jharkhand. Kolhan Division is particularly known for its water, forest, and land. Now, when the government launched a Jal Shakti Abhiyan and started a big scale plantation program. So the people of Kolhan are not only welcoming the initiative of the &#8230; <a href="/https://www.chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation" class="more-link">Continue reading<span class="screen-reader-text"> "Jal Shakti Abhiyan and Plantation"</span></a>]]></description>
+					<description><![CDATA[Water, forest and land have always been the first priority for the people of Jharkhand. Kolhan Division is particularly known for its water, forest, and land. Now, when the government launched a Jal Shakti Abhiyan and started a big scale plantation program. So the people of Kolhan are not only welcoming the initiative of the &#8230; <a href="https://www.chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation" class="more-link">Continue reading<span class="screen-reader-text"> "Jal Shakti Abhiyan and Plantation"</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Water, forest and land have always been the first priority for the people of Jharkhand. Kolhan Division is particularly known for its water, forest, and land. Now, when the government launched a <strong>Jal Shakti Abhiyan</strong> and started a big scale plantation program. So the people of Kolhan are not only welcoming the initiative of the central government but have joined in to save water and forests.</p>
 
@@ -69,7 +69,7 @@
 <p>Source &#8211; <a href="https://zeenews.india.com/hindi/india/bihar-jharkhand/government-started-jal-shakti-abhiyan-plantation-started-in-chaibasa/551635">ZeeNews</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://www.chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation/feed</wfw:commentRss>
+					<wfw:commentRss>https://www.chaibasa.org/2019/07/jal-shakti-abhiyan-and-plantation/feed</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

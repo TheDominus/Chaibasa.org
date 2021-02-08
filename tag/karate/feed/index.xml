@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Karate &#8211; Chaibasa</title>
-	<atom:link href="/https://www.chaibasa.org/tag/karate/feed" rel="self" type="application/rss+xml" />
-	<link>/https://www.chaibasa.org</link>
+	<atom:link href="https://www.chaibasa.org/tag/karate/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Tue, 30 Apr 2019 10:26:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
 
 <image>
-	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>Karate &#8211; Chaibasa</title>
-	<link>/https://www.chaibasa.org</link>
+	<link>https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Silver Medal for Karate</title>
-		<link>/https://www.chaibasa.org/2019/04/silver-medal-for-karate</link>
-					<comments>/https://www.chaibasa.org/2019/04/silver-medal-for-karate#respond</comments>
+		<link>https://www.chaibasa.org/2019/04/silver-medal-for-karate</link>
+					<comments>https://www.chaibasa.org/2019/04/silver-medal-for-karate#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 30 Apr 2019 10:26:54 +0000</pubDate>
@@ -40,9 +40,9 @@
 		<category><![CDATA[Karate]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=364</guid>
 
-					<description><![CDATA[The players of Tenshinkan Karate Do Federation of Jharkhand performed brilliantly at the 9th South Asia Hukucai Championships. This competition was held on 27th and 28th April at the Talkatora Indoor Stadium in New Delhi. In this, Aditi Gagrai from West Singhbhum district has illuminated the name of Chaibasa by winning Silver Medal in Kumite. &#8230; <a href="/https://www.chaibasa.org/2019/04/silver-medal-for-karate" class="more-link">Continue reading<span class="screen-reader-text"> "Silver Medal for Karate"</span></a>]]></description>
+					<description><![CDATA[The players of Tenshinkan Karate Do Federation of Jharkhand performed brilliantly at the 9th South Asia Hukucai Championships. This competition was held on 27th and 28th April at the Talkatora Indoor Stadium in New Delhi. In this, Aditi Gagrai from West Singhbhum district has illuminated the name of Chaibasa by winning Silver Medal in Kumite. &#8230; <a href="https://www.chaibasa.org/2019/04/silver-medal-for-karate" class="more-link">Continue reading<span class="screen-reader-text"> "Silver Medal for Karate"</span></a>]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img loading="lazy" width="338" height="338" src="https://www.chaibasa.org/wp-content/uploads/2019/04/boy-practising-karate_1196-208.jpg" alt="Boy performing karate" class="wp-image-365" srcset="/https://www.chaibasa.org/wp-content/uploads/2019/04/boy-practising-karate_1196-208.jpg 338w, /https://www.chaibasa.org/wp-content/uploads/2019/04/boy-practising-karate_1196-208-150x150.jpg 150w, /https://www.chaibasa.org/wp-content/uploads/2019/04/boy-practising-karate_1196-208-300x300.jpg 300w" sizes="(max-width: 338px) 85vw, 338px" /><figcaption>Karate Pic</figcaption></figure>
+<figure class="wp-block-image"><img loading="lazy" width="338" height="338" src="https://www.chaibasa.org/wp-content/uploads/2019/04/boy-practising-karate_1196-208.jpg" alt="Boy performing karate" class="wp-image-365" srcset="https://www.chaibasa.org/wp-content/uploads/2019/04/boy-practising-karate_1196-208.jpg 338w, https://www.chaibasa.org/wp-content/uploads/2019/04/boy-practising-karate_1196-208-150x150.jpg 150w, https://www.chaibasa.org/wp-content/uploads/2019/04/boy-practising-karate_1196-208-300x300.jpg 300w" sizes="(max-width: 338px) 85vw, 338px" /><figcaption>Karate Pic</figcaption></figure>
 
 
 
@@ -59,7 +59,7 @@
 Follow us on&nbsp;<a href="https://www.facebook.com/Chaibasa.org">Facebook&nbsp;</a>and&nbsp;<a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://www.chaibasa.org/2019/04/silver-medal-for-karate/feed</wfw:commentRss>
+					<wfw:commentRss>https://www.chaibasa.org/2019/04/silver-medal-for-karate/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

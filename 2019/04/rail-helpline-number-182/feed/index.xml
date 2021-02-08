@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Rail Helpline Number 182	</title>
-	<atom:link href="/https://www.chaibasa.org/2019/04/rail-helpline-number-182/feed" rel="self" type="application/rss+xml" />
-	<link>/https://www.chaibasa.org/2019/04/rail-helpline-number-182</link>
+	<atom:link href="https://www.chaibasa.org/2019/04/rail-helpline-number-182/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.chaibasa.org/2019/04/rail-helpline-number-182</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Mon, 08 Apr 2019 16:36:10 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
 </channel>
 </rss>

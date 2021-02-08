@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Medical College &#8211; Chaibasa</title>
-	<atom:link href="/https://www.chaibasa.org/tag/medical-college/feed" rel="self" type="application/rss+xml" />
-	<link>/https://www.chaibasa.org</link>
+	<atom:link href="https://www.chaibasa.org/tag/medical-college/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Wed, 18 Dec 2019 18:00:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
 
 <image>
-	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>Medical College &#8211; Chaibasa</title>
-	<link>/https://www.chaibasa.org</link>
+	<link>https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Workers stopped construction of Chaibasa Medical College</title>
-		<link>/https://www.chaibasa.org/2019/12/workers-stopped-construction-of-chaibasa-medical-college</link>
-					<comments>/https://www.chaibasa.org/2019/12/workers-stopped-construction-of-chaibasa-medical-college#comments</comments>
+		<link>https://www.chaibasa.org/2019/12/workers-stopped-construction-of-chaibasa-medical-college</link>
+					<comments>https://www.chaibasa.org/2019/12/workers-stopped-construction-of-chaibasa-medical-college#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 18 Dec 2019 18:00:16 +0000</pubDate>
@@ -38,9 +38,9 @@
 		<category><![CDATA[Medical College]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=459</guid>
 
-					<description><![CDATA[The Construction of Chaibasa Medical College was going in Ulijhari, Chaibasa at a cost of 300 crores. However, the workers stopped on Wednesday, demanding to increase the wage rate. All the working laborers gathered and started raising slogans demanding fair compensation. As soon as the workers arrived in the morning to work, they started demanding &#8230; <a href="/https://www.chaibasa.org/2019/12/workers-stopped-construction-of-chaibasa-medical-college" class="more-link">Continue reading<span class="screen-reader-text"> "Workers stopped construction of Chaibasa Medical College"</span></a>]]></description>
+					<description><![CDATA[The Construction of Chaibasa Medical College was going in Ulijhari, Chaibasa at a cost of 300 crores. However, the workers stopped on Wednesday, demanding to increase the wage rate. All the working laborers gathered and started raising slogans demanding fair compensation. As soon as the workers arrived in the morning to work, they started demanding &#8230; <a href="https://www.chaibasa.org/2019/12/workers-stopped-construction-of-chaibasa-medical-college" class="more-link">Continue reading<span class="screen-reader-text"> "Workers stopped construction of Chaibasa Medical College"</span></a>]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://www.chaibasa.org/wp-content/uploads/2019/12/28_07_2019-hospital.jpg" alt="" class="wp-image-460" width="381" height="295" srcset="/https://www.chaibasa.org/wp-content/uploads/2019/12/28_07_2019-hospital.jpg 380w, /https://www.chaibasa.org/wp-content/uploads/2019/12/28_07_2019-hospital-300x232.jpg 300w" sizes="(max-width: 381px) 85vw, 381px" /><figcaption>Chaibasa Medical College construction stopped.</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://www.chaibasa.org/wp-content/uploads/2019/12/28_07_2019-hospital.jpg" alt="" class="wp-image-460" width="381" height="295" srcset="https://www.chaibasa.org/wp-content/uploads/2019/12/28_07_2019-hospital.jpg 380w, https://www.chaibasa.org/wp-content/uploads/2019/12/28_07_2019-hospital-300x232.jpg 300w" sizes="(max-width: 381px) 85vw, 381px" /><figcaption>Chaibasa Medical College construction stopped.</figcaption></figure>
 
 
 
@@ -75,7 +75,7 @@
 <p>Image Courtesy &#8211; <a href="https://www.inextlive.com/chaibasa-medical-college-construction-starts-218676">Inext</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://www.chaibasa.org/2019/12/workers-stopped-construction-of-chaibasa-medical-college/feed</wfw:commentRss>
+					<wfw:commentRss>https://www.chaibasa.org/2019/12/workers-stopped-construction-of-chaibasa-medical-college/feed</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

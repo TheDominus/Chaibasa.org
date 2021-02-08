@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Road Safety &#8211; Chaibasa</title>
-	<atom:link href="/https://www.chaibasa.org/tag/road-safety/feed" rel="self" type="application/rss+xml" />
-	<link>/https://www.chaibasa.org</link>
+	<atom:link href="https://www.chaibasa.org/tag/road-safety/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Wed, 05 Feb 2020 20:48:27 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
 
 <image>
-	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>Road Safety &#8211; Chaibasa</title>
-	<link>/https://www.chaibasa.org</link>
+	<link>https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>35 people fined in 2 days, recovered 60 thousand</title>
-		<link>/https://www.chaibasa.org/2020/02/35-people-fined-in-2-days-recovered-60-thousand</link>
-					<comments>/https://www.chaibasa.org/2020/02/35-people-fined-in-2-days-recovered-60-thousand#comments</comments>
+		<link>https://www.chaibasa.org/2020/02/35-people-fined-in-2-days-recovered-60-thousand</link>
+					<comments>https://www.chaibasa.org/2020/02/35-people-fined-in-2-days-recovered-60-thousand#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 05 Feb 2020 20:48:27 +0000</pubDate>
@@ -38,9 +38,9 @@
 		<category><![CDATA[Road Safety]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=463</guid>
 
-					<description><![CDATA[The District Transport Department has imposed a total fine of 60 thousand rupees on 33 motorcycles and 2 Tata Magic drivers for violating traffic rules within two days. In Chaibasa, a motorcycle driver incurred a total loss of six thousand rupees due to lack of license and helmet. On behalf of the District Transport Department, &#8230; <a href="/https://www.chaibasa.org/2020/02/35-people-fined-in-2-days-recovered-60-thousand" class="more-link">Continue reading<span class="screen-reader-text"> "35 people fined in 2 days, recovered 60 thousand"</span></a>]]></description>
+					<description><![CDATA[The District Transport Department has imposed a total fine of 60 thousand rupees on 33 motorcycles and 2 Tata Magic drivers for violating traffic rules within two days. In Chaibasa, a motorcycle driver incurred a total loss of six thousand rupees due to lack of license and helmet. On behalf of the District Transport Department, &#8230; <a href="https://www.chaibasa.org/2020/02/35-people-fined-in-2-days-recovered-60-thousand" class="more-link">Continue reading<span class="screen-reader-text"> "35 people fined in 2 days, recovered 60 thousand"</span></a>]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="650" height="508" src="https://www.chaibasa.org/wp-content/uploads/2020/02/chaibasa-challan.jpg" alt="" class="wp-image-464" srcset="/https://www.chaibasa.org/wp-content/uploads/2020/02/chaibasa-challan.jpg 650w, /https://www.chaibasa.org/wp-content/uploads/2020/02/chaibasa-challan-300x234.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Motorcyclists without helmet fined by Chaibsasa Transport Department. </figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="650" height="508" src="https://www.chaibasa.org/wp-content/uploads/2020/02/chaibasa-challan.jpg" alt="" class="wp-image-464" srcset="https://www.chaibasa.org/wp-content/uploads/2020/02/chaibasa-challan.jpg 650w, https://www.chaibasa.org/wp-content/uploads/2020/02/chaibasa-challan-300x234.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Motorcyclists without helmet fined by Chaibsasa Transport Department. </figcaption></figure>
 
 
 
@@ -79,15 +79,15 @@
 <p>Source :- <a href="https://www.jagran.com/jharkhand/west-singhbhum-chalan-kata-20003375.html">Jagran</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://www.chaibasa.org/2020/02/35-people-fined-in-2-days-recovered-60-thousand/feed</wfw:commentRss>
+					<wfw:commentRss>https://www.chaibasa.org/2020/02/35-people-fined-in-2-days-recovered-60-thousand/feed</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Road Safety</title>
-		<link>/https://www.chaibasa.org/2019/06/road-safety</link>
-					<comments>/https://www.chaibasa.org/2019/06/road-safety#comments</comments>
+		<link>https://www.chaibasa.org/2019/06/road-safety</link>
+					<comments>https://www.chaibasa.org/2019/06/road-safety#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 25 Jun 2019 15:52:19 +0000</pubDate>
@@ -95,7 +95,7 @@
 		<category><![CDATA[Road Safety]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=392</guid>
 
-					<description><![CDATA[The monthly meeting of the Road Safety Committee was held on Tuesday. It was held under the chairmanship of Deputy Commissioner Arwa Rajkamal. In the meeting, the Deputy Commissioner directed the executive engineer of National Highway to apply road signs in Jhinkpani-Hattgamaharia and Hattgamaharia-Jaitgarh Road. He also mentioned filling the potholes located in National Highways, &#8230; <a href="/https://www.chaibasa.org/2019/06/road-safety" class="more-link">Continue reading<span class="screen-reader-text"> "Road Safety"</span></a>]]></description>
+					<description><![CDATA[The monthly meeting of the Road Safety Committee was held on Tuesday. It was held under the chairmanship of Deputy Commissioner Arwa Rajkamal. In the meeting, the Deputy Commissioner directed the executive engineer of National Highway to apply road signs in Jhinkpani-Hattgamaharia and Hattgamaharia-Jaitgarh Road. He also mentioned filling the potholes located in National Highways, &#8230; <a href="https://www.chaibasa.org/2019/06/road-safety" class="more-link">Continue reading<span class="screen-reader-text"> "Road Safety"</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>The monthly meeting of the Road Safety Committee was held on Tuesday. It was held under the chairmanship of Deputy Commissioner Arwa Rajkamal. In the meeting, the Deputy Commissioner directed the executive engineer of National Highway to apply road signs in Jhinkpani-Hattgamaharia and Hattgamaharia-Jaitgarh Road. He also mentioned filling the potholes located in National Highways, and widening the roadside along Bandgaon. </p>
 
@@ -124,7 +124,7 @@
 <p>Source :- <a href="https://www.jagran.com/jharkhand/west-singhbhum-dc-meeting-news-19343801.html">Jagran</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://www.chaibasa.org/2019/06/road-safety/feed</wfw:commentRss>
+					<wfw:commentRss>https://www.chaibasa.org/2019/06/road-safety/feed</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

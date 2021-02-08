@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Earth day &#8211; Chaibasa</title>
-	<atom:link href="/https://www.chaibasa.org/tag/earth-day/feed" rel="self" type="application/rss+xml" />
-	<link>/https://www.chaibasa.org</link>
+	<atom:link href="https://www.chaibasa.org/tag/earth-day/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Mon, 22 Apr 2019 17:32:21 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
 
 <image>
-	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>Earth day &#8211; Chaibasa</title>
-	<link>/https://www.chaibasa.org</link>
+	<link>https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Tata College Celebrates Earth Day</title>
-		<link>/https://www.chaibasa.org/2019/04/tata-college-celebrates-earth-day</link>
-					<comments>/https://www.chaibasa.org/2019/04/tata-college-celebrates-earth-day#respond</comments>
+		<link>https://www.chaibasa.org/2019/04/tata-college-celebrates-earth-day</link>
+					<comments>https://www.chaibasa.org/2019/04/tata-college-celebrates-earth-day#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 22 Apr 2019 17:32:12 +0000</pubDate>
@@ -39,9 +39,9 @@
 		<category><![CDATA[Earth day]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=357</guid>
 
-					<description><![CDATA[On the auspicious occasion of World Earth Day on Monday, Tata College Students Union celebrated the World Earth Day at Tribal Child Welfare Hostel. The entire Tata College campus was planted in seasonal fruits and flowers. On the occasion, Tata College Students Union President Uday Murmu said that on earth day every person must plant &#8230; <a href="/https://www.chaibasa.org/2019/04/tata-college-celebrates-earth-day" class="more-link">Continue reading<span class="screen-reader-text"> "Tata College Celebrates Earth Day"</span></a>]]></description>
+					<description><![CDATA[On the auspicious occasion of World Earth Day on Monday, Tata College Students Union celebrated the World Earth Day at Tribal Child Welfare Hostel. The entire Tata College campus was planted in seasonal fruits and flowers. On the occasion, Tata College Students Union President Uday Murmu said that on earth day every person must plant &#8230; <a href="https://www.chaibasa.org/2019/04/tata-college-celebrates-earth-day" class="more-link">Continue reading<span class="screen-reader-text"> "Tata College Celebrates Earth Day"</span></a>]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img loading="lazy" width="650" height="487" src="https://www.chaibasa.org/wp-content/uploads/2019/04/22_04_2019-22chap26-c-2_19156273_205114.jpg" alt="Students celebrating earth's day." class="wp-image-358" srcset="/https://www.chaibasa.org/wp-content/uploads/2019/04/22_04_2019-22chap26-c-2_19156273_205114.jpg 650w, /https://www.chaibasa.org/wp-content/uploads/2019/04/22_04_2019-22chap26-c-2_19156273_205114-300x225.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Tata college celebrates Earth Day.</figcaption></figure>
+<figure class="wp-block-image"><img loading="lazy" width="650" height="487" src="https://www.chaibasa.org/wp-content/uploads/2019/04/22_04_2019-22chap26-c-2_19156273_205114.jpg" alt="Students celebrating earth's day." class="wp-image-358" srcset="https://www.chaibasa.org/wp-content/uploads/2019/04/22_04_2019-22chap26-c-2_19156273_205114.jpg 650w, https://www.chaibasa.org/wp-content/uploads/2019/04/22_04_2019-22chap26-c-2_19156273_205114-300x225.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Tata college celebrates Earth Day.</figcaption></figure>
 
 
 
@@ -66,7 +66,7 @@
 Follow us on&nbsp;<a href="https://www.facebook.com/Chaibasa.org">Facebook&nbsp;</a>and&nbsp;<a href="https://www.instagram.com/Chaibasa_org">Instagram</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://www.chaibasa.org/2019/04/tata-college-celebrates-earth-day/feed</wfw:commentRss>
+					<wfw:commentRss>https://www.chaibasa.org/2019/04/tata-college-celebrates-earth-day/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

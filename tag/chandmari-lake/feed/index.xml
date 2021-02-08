@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Chandmari lake &#8211; Chaibasa</title>
-	<atom:link href="/https://www.chaibasa.org/tag/chandmari-lake/feed" rel="self" type="application/rss+xml" />
-	<link>/https://www.chaibasa.org</link>
+	<atom:link href="https://www.chaibasa.org/tag/chandmari-lake/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.chaibasa.org</link>
 	<description>Chaibasa is a town and a municipality in West Singhbhum district in the state of Jharkhand, India.</description>
 	<lastBuildDate>Mon, 03 Jun 2019 16:16:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
 
 <image>
-	<url>/https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
+	<url>https://www.chaibasa.org/wp-content/uploads/2018/12/cropped-abc1-3-32x32.jpg</url>
 	<title>Chandmari lake &#8211; Chaibasa</title>
-	<link>/https://www.chaibasa.org</link>
+	<link>https://www.chaibasa.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Rare Birds found in Chaibasa Chandmari Lake</title>
-		<link>/https://www.chaibasa.org/2019/06/rare-birds-found-in-chaibasa-chandmari-lake</link>
-					<comments>/https://www.chaibasa.org/2019/06/rare-birds-found-in-chaibasa-chandmari-lake#comments</comments>
+		<link>https://www.chaibasa.org/2019/06/rare-birds-found-in-chaibasa-chandmari-lake</link>
+					<comments>https://www.chaibasa.org/2019/06/rare-birds-found-in-chaibasa-chandmari-lake#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 03 Jun 2019 16:16:28 +0000</pubDate>
@@ -39,9 +39,9 @@
 		<category><![CDATA[Chandmari lake]]></category>
 		<guid isPermaLink="false">https://www.chaibasa.org/?p=374</guid>
 
-					<description><![CDATA[दुर्लभ भारतीय पक्षियों को चाईबासा में चंदेरी झील में एक प्रजनन मैदान मिला है और झारखंड के वन विभाग इसे पर्यावरण के अनुकूल वातावरण में सुधार करने और पर्यटकों को आकर्षित करने के लिए आर्द्रभूमि के रूप में विकसित करने की योजना बना रहे हैं। चंदमारी झील, कई वर्षों से विभिन्न स्थानीय और प्रवासी पक्षियों &#8230; <a href="/https://www.chaibasa.org/2019/06/rare-birds-found-in-chaibasa-chandmari-lake" class="more-link">Continue reading<span class="screen-reader-text"> "Rare Birds found in Chaibasa Chandmari Lake"</span></a>]]></description>
+					<description><![CDATA[दुर्लभ भारतीय पक्षियों को चाईबासा में चंदेरी झील में एक प्रजनन मैदान मिला है और झारखंड के वन विभाग इसे पर्यावरण के अनुकूल वातावरण में सुधार करने और पर्यटकों को आकर्षित करने के लिए आर्द्रभूमि के रूप में विकसित करने की योजना बना रहे हैं। चंदमारी झील, कई वर्षों से विभिन्न स्थानीय और प्रवासी पक्षियों &#8230; <a href="https://www.chaibasa.org/2019/06/rare-birds-found-in-chaibasa-chandmari-lake" class="more-link">Continue reading<span class="screen-reader-text"> "Rare Birds found in Chaibasa Chandmari Lake"</span></a>]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img loading="lazy" width="960" height="546" src="https://www.chaibasa.org/wp-content/uploads/2019/06/chaibasa-hindustan-pitta-indian-spotted-chandmari-chaibasa_f6606d14-85de-11e9-8812-e0f6aa62d95d.jpg" alt="" class="wp-image-375" srcset="/https://www.chaibasa.org/wp-content/uploads/2019/06/chaibasa-hindustan-pitta-indian-spotted-chandmari-chaibasa_f6606d14-85de-11e9-8812-e0f6aa62d95d.jpg 960w, /https://www.chaibasa.org/wp-content/uploads/2019/06/chaibasa-hindustan-pitta-indian-spotted-chandmari-chaibasa_f6606d14-85de-11e9-8812-e0f6aa62d95d-300x171.jpg 300w, /https://www.chaibasa.org/wp-content/uploads/2019/06/chaibasa-hindustan-pitta-indian-spotted-chandmari-chaibasa_f6606d14-85de-11e9-8812-e0f6aa62d95d-768x437.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption>Rare Bird in Chaibasa Chandmari Lake</figcaption></figure>
+<figure class="wp-block-image"><img loading="lazy" width="960" height="546" src="https://www.chaibasa.org/wp-content/uploads/2019/06/chaibasa-hindustan-pitta-indian-spotted-chandmari-chaibasa_f6606d14-85de-11e9-8812-e0f6aa62d95d.jpg" alt="" class="wp-image-375" srcset="https://www.chaibasa.org/wp-content/uploads/2019/06/chaibasa-hindustan-pitta-indian-spotted-chandmari-chaibasa_f6606d14-85de-11e9-8812-e0f6aa62d95d.jpg 960w, https://www.chaibasa.org/wp-content/uploads/2019/06/chaibasa-hindustan-pitta-indian-spotted-chandmari-chaibasa_f6606d14-85de-11e9-8812-e0f6aa62d95d-300x171.jpg 300w, https://www.chaibasa.org/wp-content/uploads/2019/06/chaibasa-hindustan-pitta-indian-spotted-chandmari-chaibasa_f6606d14-85de-11e9-8812-e0f6aa62d95d-768x437.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption>Rare Bird in Chaibasa Chandmari Lake</figcaption></figure>
 
 
 
@@ -102,7 +102,7 @@
 Also see :-&nbsp;<a href="https://www.chaibasa.org/2019/04/solar-plant-in-chaibasa-and-chandil">Solar Plant in Chaibasa</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://www.chaibasa.org/2019/06/rare-birds-found-in-chaibasa-chandmari-lake/feed</wfw:commentRss>
+					<wfw:commentRss>https://www.chaibasa.org/2019/06/rare-birds-found-in-chaibasa-chandmari-lake/feed</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
