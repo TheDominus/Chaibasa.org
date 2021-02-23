@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">404072</td>
+<td bgcolor="#eeeeec" align="center">0.0102</td>
+<td bgcolor="#eeeeec" align="right">404840</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\sodium_compat\namespaced\Core\Curve25519\Ge\Cached.php" bgcolor="#eeeeec">...\Cached.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">404392</td>
+<td bgcolor="#eeeeec" align="center">0.0190</td>
+<td bgcolor="#eeeeec" align="right">405832</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\Requests\Exception\HTTP.php" bgcolor="#eeeeec">...\HTTP.php<b>:</b>0</td>
 </tr>

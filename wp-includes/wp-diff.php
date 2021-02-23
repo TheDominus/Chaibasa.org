@@ -13,8 +13,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">403552</td>
+<td bgcolor="#eeeeec" align="center">0.0167</td>
+<td bgcolor="#eeeeec" align="right">404272</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\wp-diff.php" bgcolor="#eeeeec">...\wp-diff.php<b>:</b>0</td>
 </tr>
@@ -34,8 +34,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">403552</td>
+<td bgcolor="#eeeeec" align="center">0.0167</td>
+<td bgcolor="#eeeeec" align="right">404272</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\wp-diff.php" bgcolor="#eeeeec">...\wp-diff.php<b>:</b>0</td>
 </tr>
@@ -55,8 +55,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">403552</td>
+<td bgcolor="#eeeeec" align="center">0.0167</td>
+<td bgcolor="#eeeeec" align="right">404272</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\wp-diff.php" bgcolor="#eeeeec">...\wp-diff.php<b>:</b>0</td>
 </tr>
@@ -76,8 +76,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">403552</td>
+<td bgcolor="#eeeeec" align="center">0.0167</td>
+<td bgcolor="#eeeeec" align="right">404272</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\wp-diff.php" bgcolor="#eeeeec">...\wp-diff.php<b>:</b>0</td>
 </tr>

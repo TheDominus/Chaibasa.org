@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">405472</td>
+<td bgcolor="#eeeeec" align="center">0.1150</td>
+<td bgcolor="#eeeeec" align="right">406928</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\class-wp-image-editor-imagick.php" bgcolor="#eeeeec">...\class-wp-image-editor-imagick.php<b>:</b>0</td>
 </tr>
