@@ -13,8 +13,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0256</td>
-<td bgcolor="#eeeeec" align="right">406312</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">404872</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\Requests\Transport\fsockopen.php" bgcolor="#eeeeec">...\fsockopen.php<b>:</b>0</td>
 </tr>

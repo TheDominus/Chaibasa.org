@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">404352</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">404032</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\Chaibasa.org\wp-includes\block-patterns\text-two-columns-with-images.php" bgcolor="#eeeeec">...\text-two-columns-with-images.php<b>:</b>0</td>
 </tr>
